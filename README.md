@@ -1,10 +1,14 @@
 # Utilizing Data Analytics for Wildfire Risk Management in Victoria State, Australia
+-	Analysed wildfire risk using Python to extract insights through using spatial analysis, time series analysis, machine learning (Xboost & Random Forest), and catastrophe modelling. 
+-	Objectives included predicting wildfire occurrences, understanding spatial and temporal trends, and providing actionable recommendations for risk mitigation
+-	Cleaned and prepared data from MODIS satellite data and Victoria State weather data
+-	Provided insights and recommendations to inform strategic decisions for improving wildfire preparedness
 
 <img width="979" alt="Screen Shot 2024-08-02 at 22 53 23" src="https://github.com/user-attachments/assets/3c23acba-d090-44f7-9619-76c128e7fb97">
 <img width="987" alt="Screen Shot 2024-08-02 at 22 53 34" src="https://github.com/user-attachments/assets/0576021e-209a-42a4-bfdc-3c22a6e6030b">
 <img width="1056" alt="Screen Shot 2024-08-02 at 23 34 19" src="https://github.com/user-attachments/assets/13dc4d65-b82b-4964-b812-44d4bc834814">
 
-## Metrics and Dimensions
+### Metrics and Dimensions
 
 - Data Sources: MODIS satellite data, Australia weather data, and Victoria state shapefile.
 - Analysis Methods: Spatial analysis, time series analysis, machine learning, and catastrophe modeling.
