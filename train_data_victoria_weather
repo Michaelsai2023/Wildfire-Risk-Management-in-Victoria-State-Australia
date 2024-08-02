@@ -1,0 +1,1689 @@
+,station,date,rainfall,avg_temp,avg_rh,avg_windspeed
+2528,Melbourne (Olympic Park) {station 086338},2020-06-01,5.0,10.25,88.0,11.0
+2529,Melbourne (Olympic Park) {station 086338},2020-06-02,11.6,12.0,73.5,8.0
+2530,Melbourne (Olympic Park) {station 086338},2020-06-03,0.6,12.3,67.0,13.0
+2531,Melbourne (Olympic Park) {station 086338},2020-06-04,0.0,11.55,65.0,16.004490057729313
+2532,Melbourne (Olympic Park) {station 086338},2020-06-05,0.0,9.35,77.0,9.0
+2533,Melbourne (Olympic Park) {station 086338},2020-06-06,0.0,9.65,82.0,9.0
+2534,Melbourne (Olympic Park) {station 086338},2020-06-07,0.0,9.850000000000001,76.0,10.0
+2535,Melbourne (Olympic Park) {station 086338},2020-06-08,0.0,8.55,86.0,7.0
+2536,Melbourne (Olympic Park) {station 086338},2020-06-09,0.2,8.65,71.5,12.0
+2537,Melbourne (Olympic Park) {station 086338},2020-06-10,0.0,10.299999999999999,75.0,7.5
+2538,Melbourne (Olympic Park) {station 086338},2020-06-11,0.0,10.7,73.5,16.004490057729313
+2539,Melbourne (Olympic Park) {station 086338},2020-06-12,0.0,9.75,71.5,13.0
+2540,Melbourne (Olympic Park) {station 086338},2020-06-13,0.0,11.049999999999999,69.5,18.0
+2541,Melbourne (Olympic Park) {station 086338},2020-06-14,5.8,12.8,66.5,18.5
+2542,Melbourne (Olympic Park) {station 086338},2020-06-15,0.0,15.0,68.5,14.0
+2543,Melbourne (Olympic Park) {station 086338},2020-06-16,0.0,15.45,63.5,11.0
+2544,Melbourne (Olympic Park) {station 086338},2020-06-17,0.4,12.399999999999999,68.0,6.5
+2545,Melbourne (Olympic Park) {station 086338},2020-06-18,0.0,10.75,73.5,13.0
+2546,Melbourne (Olympic Park) {station 086338},2020-06-19,0.0,12.100000000000001,66.5,20.0
+2547,Melbourne (Olympic Park) {station 086338},2020-06-20,1.4,14.85,70.0,14.0
+2548,Melbourne (Olympic Park) {station 086338},2020-06-21,0.0,9.45,88.5,6.0
+2549,Melbourne (Olympic Park) {station 086338},2020-06-22,0.0,10.55,78.0,11.0
+2550,Melbourne (Olympic Park) {station 086338},2020-06-23,2.2,11.7,88.5,16.004490057729313
+2551,Melbourne (Olympic Park) {station 086338},2020-06-24,0.4,12.5,91.0,6.5
+2552,Melbourne (Olympic Park) {station 086338},2020-06-25,0.0,14.049464604402143,75.5,14.0
+2553,Melbourne (Olympic Park) {station 086338},2020-05-01,8.0,10.3,71.0,13.0
+2554,Melbourne (Olympic Park) {station 086338},2020-05-02,1.4,11.25,73.5,15.0
+2555,Melbourne (Olympic Park) {station 086338},2020-05-03,1.8,12.4,67.5,6.0
+2556,Melbourne (Olympic Park) {station 086338},2020-05-04,0.2,12.100000000000001,87.5,6.5
+2557,Melbourne (Olympic Park) {station 086338},2020-05-05,0.4,13.75,75.5,15.0
+2558,Melbourne (Olympic Park) {station 086338},2020-05-06,0.0,15.15,60.0,22.5
+2559,Melbourne (Olympic Park) {station 086338},2020-05-07,0.0,18.1,51.5,20.5
+2560,Melbourne (Olympic Park) {station 086338},2020-05-08,0.0,16.1,61.5,18.5
+2561,Melbourne (Olympic Park) {station 086338},2020-05-09,0.6,13.3,78.0,13.0
+2562,Melbourne (Olympic Park) {station 086338},2020-05-10,7.0,10.85,62.0,8.0
+2563,Melbourne (Olympic Park) {station 086338},2020-05-11,0.6,12.450000000000001,65.5,10.0
+2564,Melbourne (Olympic Park) {station 086338},2020-05-12,0.2,12.55,67.5,18.0
+2565,Melbourne (Olympic Park) {station 086338},2020-05-13,1.4,12.45,72.0,10.0
+2566,Melbourne (Olympic Park) {station 086338},2020-05-14,2.8,10.649999999999999,71.0,10.0
+2567,Melbourne (Olympic Park) {station 086338},2020-05-15,0.0,9.9,72.0,8.0
+2568,Melbourne (Olympic Park) {station 086338},2020-05-16,0.0,11.25,66.5,11.0
+2569,Melbourne (Olympic Park) {station 086338},2020-05-17,0.0,11.8,67.5,8.0
+2570,Melbourne (Olympic Park) {station 086338},2020-05-18,0.0,12.45,69.0,13.0
+2571,Melbourne (Olympic Park) {station 086338},2020-05-19,0.0,12.899999999999999,63.0,16.0
+2572,Melbourne (Olympic Park) {station 086338},2020-05-20,15.6,13.05,63.0,14.0
+2573,Melbourne (Olympic Park) {station 086338},2020-05-21,12.4,11.55,80.5,9.5
+2574,Melbourne (Olympic Park) {station 086338},2020-05-22,11.4,11.35,75.5,6.5
+2575,Melbourne (Olympic Park) {station 086338},2020-05-23,0.0,11.45,96.0,9.5
+2576,Melbourne (Olympic Park) {station 086338},2020-05-24,3.0,12.350000000000001,71.5,15.0
+2577,Melbourne (Olympic Park) {station 086338},2020-05-25,0.0,10.75,78.0,8.0
+2578,Melbourne (Olympic Park) {station 086338},2020-05-26,0.0,11.95,72.0,13.0
+2579,Melbourne (Olympic Park) {station 086338},2020-05-27,0.0,11.5,66.0,13.0
+2580,Melbourne (Olympic Park) {station 086338},2020-05-28,0.0,14.850000000000001,70.5,9.0
+2581,Melbourne (Olympic Park) {station 086338},2020-05-29,0.0,12.15,78.5,13.0
+2582,Melbourne (Olympic Park) {station 086338},2020-05-30,0.0,12.600000000000001,62.5,21.5
+2583,Melbourne (Olympic Park) {station 086338},2020-05-31,0.0,15.100000000000001,59.5,12.0
+2584,Melbourne (Olympic Park) {station 086338},2020-04-01,0.0,17.05,69.5,9.0
+2585,Melbourne (Olympic Park) {station 086338},2020-04-02,23.0,16.55,91.5,16.004490057729313
+2586,Melbourne (Olympic Park) {station 086338},2020-04-03,15.8,18.45,76.5,15.5
+2587,Melbourne (Olympic Park) {station 086338},2020-04-04,35.2,14.700000000000001,82.5,15.0
+2588,Melbourne (Olympic Park) {station 086338},2020-04-05,4.4,13.2,80.5,15.5
+2589,Melbourne (Olympic Park) {station 086338},2020-04-06,6.2,13.6,66.5,10.0
+2590,Melbourne (Olympic Park) {station 086338},2020-04-07,1.4,14.149999999999999,68.0,6.5
+2591,Melbourne (Olympic Park) {station 086338},2020-04-08,1.2,15.15,82.5,11.0
+2592,Melbourne (Olympic Park) {station 086338},2020-04-09,0.0,15.05,66.5,5.5
+2593,Melbourne (Olympic Park) {station 086338},2020-04-10,0.2,17.35,66.0,16.0
+2594,Melbourne (Olympic Park) {station 086338},2020-04-11,2.4,14.35,60.0,15.0
+2595,Melbourne (Olympic Park) {station 086338},2020-04-12,2.4,13.15,70.0,7.5
+2596,Melbourne (Olympic Park) {station 086338},2020-04-13,0.0,15.25,62.5,8.0
+2597,Melbourne (Olympic Park) {station 086338},2020-04-14,0.6,17.75,57.5,15.0
+2598,Melbourne (Olympic Park) {station 086338},2020-04-15,0.0,19.55,49.0,19.5
+2599,Melbourne (Olympic Park) {station 086338},2020-04-16,0.2,18.45,74.0,10.0
+2600,Melbourne (Olympic Park) {station 086338},2020-04-17,0.0,14.899999999999999,64.0,11.0
+2601,Melbourne (Olympic Park) {station 086338},2020-04-18,0.0,14.649999999999999,71.5,8.0
+2602,Melbourne (Olympic Park) {station 086338},2020-04-19,0.0,15.299999999999999,56.0,5.5
+2603,Melbourne (Olympic Park) {station 086338},2020-04-20,3.4,16.4,46.0,15.5
+2604,Melbourne (Olympic Park) {station 086338},2020-04-21,0.0,14.05,56.5,13.0
+2605,Melbourne (Olympic Park) {station 086338},2020-04-22,0.0,15.5,66.5,5.5
+2606,Melbourne (Olympic Park) {station 086338},2020-04-23,0.0,14.649999999999999,59.5,17.5
+2607,Melbourne (Olympic Park) {station 086338},2020-04-24,0.4,18.7,58.5,11.0
+2608,Melbourne (Olympic Park) {station 086338},2020-04-25,0.0,16.1,62.5,16.5
+2609,Melbourne (Olympic Park) {station 086338},2020-04-26,14.0,16.55,71.0,12.0
+2610,Melbourne (Olympic Park) {station 086338},2020-04-27,0.6,13.100000000000001,60.0,6.5
+2611,Melbourne (Olympic Park) {station 086338},2020-04-28,0.0,13.0,64.0,13.0
+2612,Melbourne (Olympic Park) {station 086338},2020-04-29,3.4,15.5,90.5,12.0
+2613,Melbourne (Olympic Park) {station 086338},2020-04-30,23.6,12.2,76.5,9.5
+2614,Melbourne (Olympic Park) {station 086338},2020-03-01,0.0,22.65,55.0,15.5
+2615,Melbourne (Olympic Park) {station 086338},2020-03-02,3.0,16.299999999999997,62.0,14.0
+2616,Melbourne (Olympic Park) {station 086338},2020-03-03,0.0,17.1,59.0,12.0
+2617,Melbourne (Olympic Park) {station 086338},2020-03-04,0.0,18.55,69.0,7.0
+2618,Melbourne (Olympic Park) {station 086338},2020-03-05,54.6,17.85,100.0,4.0
+2619,Melbourne (Olympic Park) {station 086338},2020-03-06,7.0,17.45,80.5,14.0
+2620,Melbourne (Olympic Park) {station 086338},2020-03-07,0.2,17.7,71.5,12.0
+2621,Melbourne (Olympic Park) {station 086338},2020-03-08,0.0,18.15,64.0,12.0
+2622,Melbourne (Olympic Park) {station 086338},2020-03-09,0.0,16.65,60.5,15.0
+2623,Melbourne (Olympic Park) {station 086338},2020-03-10,0.0,16.3,72.0,7.5
+2624,Melbourne (Olympic Park) {station 086338},2020-03-11,0.0,21.05,59.0,5.0
+2625,Melbourne (Olympic Park) {station 086338},2020-03-12,0.0,23.05,44.5,14.5
+2626,Melbourne (Olympic Park) {station 086338},2020-03-13,0.0,22.950000000000003,45.0,16.0
+2627,Melbourne (Olympic Park) {station 086338},2020-03-14,0.6,15.5,48.5,17.5
+2628,Melbourne (Olympic Park) {station 086338},2020-03-15,0.0,15.75,69.0,10.0
+2629,Melbourne (Olympic Park) {station 086338},2020-03-16,0.0,17.9,61.0,10.0
+2630,Melbourne (Olympic Park) {station 086338},2020-03-17,0.0,19.9,50.0,15.0
+2631,Melbourne (Olympic Park) {station 086338},2020-03-18,0.0,23.0,38.5,18.5
+2632,Melbourne (Olympic Park) {station 086338},2020-03-19,0.0,24.549999999999997,38.5,14.0
+2633,Melbourne (Olympic Park) {station 086338},2020-03-20,0.0,19.4,55.0,13.0
+2634,Melbourne (Olympic Park) {station 086338},2020-03-21,0.0,16.5,61.5,6.5
+2635,Melbourne (Olympic Park) {station 086338},2020-03-22,0.0,15.2,71.5,13.0
+2636,Melbourne (Olympic Park) {station 086338},2020-03-23,0.4,14.9,64.5,11.0
+2637,Melbourne (Olympic Park) {station 086338},2020-03-24,0.0,13.2,65.0,11.5
+2638,Melbourne (Olympic Park) {station 086338},2020-03-25,0.0,14.15,57.0,10.5
+2639,Melbourne (Olympic Park) {station 086338},2020-03-26,0.0,16.75,71.5,12.0
+2640,Melbourne (Olympic Park) {station 086338},2020-03-27,0.0,20.6,63.0,10.0
+2641,Melbourne (Olympic Park) {station 086338},2020-03-28,0.0,21.15,52.5,14.5
+2642,Melbourne (Olympic Park) {station 086338},2020-03-29,0.0,21.45,59.0,14.0
+2643,Melbourne (Olympic Park) {station 086338},2020-03-30,5.2,18.8,65.0,6.5
+2644,Melbourne (Olympic Park) {station 086338},2020-03-31,0.0,16.799999999999997,67.5,10.0
+2645,Melbourne (Olympic Park) {station 086338},2020-02-01,0.8,26.4,82.5,10.0
+2646,Melbourne (Olympic Park) {station 086338},2020-02-02,14.8,19.65,55.0,10.0
+2647,Melbourne (Olympic Park) {station 086338},2020-02-03,0.0,15.45,65.5,18.5
+2648,Melbourne (Olympic Park) {station 086338},2020-02-04,0.0,15.5,49.0,14.0
+2649,Melbourne (Olympic Park) {station 086338},2020-02-05,0.0,15.450000000000001,61.5,11.5
+2650,Melbourne (Olympic Park) {station 086338},2020-02-06,0.0,19.6,66.0,12.0
+2651,Melbourne (Olympic Park) {station 086338},2020-02-07,0.0,19.85,87.5,8.5
+2652,Melbourne (Olympic Park) {station 086338},2020-02-08,0.0,23.4,59.5,15.5
+2653,Melbourne (Olympic Park) {station 086338},2020-02-09,0.0,23.9,56.0,16.0
+2654,Melbourne (Olympic Park) {station 086338},2020-02-10,0.6,23.1,72.0,15.0
+2655,Melbourne (Olympic Park) {station 086338},2020-02-11,0.0,22.7,75.5,9.5
+2656,Melbourne (Olympic Park) {station 086338},2020-02-12,0.0,23.4,85.0,13.0
+2657,Melbourne (Olympic Park) {station 086338},2020-02-13,0.0,25.549999999999997,62.5,6.5
+2658,Melbourne (Olympic Park) {station 086338},2020-02-14,0.0,27.0,79.0,13.0
+2659,Melbourne (Olympic Park) {station 086338},2020-02-15,5.4,19.1,100.0,10.0
+2660,Melbourne (Olympic Park) {station 086338},2020-02-16,2.8,21.65,68.5,8.5
+2661,Melbourne (Olympic Park) {station 086338},2020-02-17,0.0,20.4,71.5,10.5
+2662,Melbourne (Olympic Park) {station 086338},2020-02-18,0.0,19.700000000000003,94.5,5.0
+2663,Melbourne (Olympic Park) {station 086338},2020-02-19,38.0,16.5,77.5,18.5
+2664,Melbourne (Olympic Park) {station 086338},2020-02-20,3.2,16.45,62.5,13.0
+2665,Melbourne (Olympic Park) {station 086338},2020-02-21,2.8,16.55,72.5,10.5
+2666,Melbourne (Olympic Park) {station 086338},2020-02-22,0.0,16.25,59.5,11.0
+2667,Melbourne (Olympic Park) {station 086338},2020-02-23,0.0,23.65,57.0,16.004490057729313
+2668,Melbourne (Olympic Park) {station 086338},2020-02-24,0.0,20.25,86.5,8.0
+2669,Melbourne (Olympic Park) {station 086338},2020-02-25,3.6,25.0,59.5,13.5
+2670,Melbourne (Olympic Park) {station 086338},2020-02-26,4.0,17.7,54.0,15.5
+2671,Melbourne (Olympic Park) {station 086338},2020-02-27,0.2,15.35,53.5,12.0
+2672,Melbourne (Olympic Park) {station 086338},2020-02-28,0.0,16.6,70.0,8.0
+2673,Melbourne (Olympic Park) {station 086338},2020-02-29,0.0,18.549999999999997,73.5,8.5
+2674,Melbourne (Olympic Park) {station 086338},2020-01-01,0.0,18.35,53.5,9.0
+2675,Melbourne (Olympic Park) {station 086338},2020-01-02,0.0,18.9,57.0,9.5
+2676,Melbourne (Olympic Park) {station 086338},2020-01-03,0.0,25.15,51.5,8.0
+2677,Melbourne (Olympic Park) {station 086338},2020-01-04,0.0,22.700000000000003,58.0,10.0
+2678,Melbourne (Olympic Park) {station 086338},2020-01-05,2.2,14.7,76.5,12.0
+2679,Melbourne (Olympic Park) {station 086338},2020-01-06,8.2,14.95,92.5,4.5
+2680,Melbourne (Olympic Park) {station 086338},2020-01-07,1.2,16.35,84.5,9.5
+2681,Melbourne (Olympic Park) {station 086338},2020-01-08,0.0,20.3,73.5,13.0
+2682,Melbourne (Olympic Park) {station 086338},2020-01-09,0.0,24.9,58.0,10.0
+2683,Melbourne (Olympic Park) {station 086338},2020-01-10,0.0,26.5,66.0,19.0
+2684,Melbourne (Olympic Park) {station 086338},2020-01-11,15.6,16.4,58.5,13.0
+2685,Melbourne (Olympic Park) {station 086338},2020-01-12,0.0,17.049999999999997,65.5,15.0
+2686,Melbourne (Olympic Park) {station 086338},2020-01-13,0.0,22.450000000000003,52.0,12.5
+2687,Melbourne (Olympic Park) {station 086338},2020-01-14,0.0,25.25,70.5,7.5
+2688,Melbourne (Olympic Park) {station 086338},2020-01-15,0.0,28.15,35.5,16.0
+2689,Melbourne (Olympic Park) {station 086338},2020-01-16,19.6,17.65,71.5,16.0
+2690,Melbourne (Olympic Park) {station 086338},2020-01-17,0.0,19.6,61.5,14.0
+2691,Melbourne (Olympic Park) {station 086338},2020-01-18,0.0,21.65,62.5,5.5
+2692,Melbourne (Olympic Park) {station 086338},2020-01-19,0.0,21.5,72.5,11.5
+2693,Melbourne (Olympic Park) {station 086338},2020-01-20,0.4,20.450000000000003,83.5,13.0
+2694,Melbourne (Olympic Park) {station 086338},2020-01-21,44.0,19.15,58.5,9.0
+2695,Melbourne (Olympic Park) {station 086338},2020-01-22,0.0,22.9,38.0,23.0
+2696,Melbourne (Olympic Park) {station 086338},2020-01-23,22.8,17.75,66.5,15.5
+2697,Melbourne (Olympic Park) {station 086338},2020-01-24,1.2,17.9,46.5,11.0
+2698,Melbourne (Olympic Park) {station 086338},2020-01-25,0.0,20.2,51.5,10.0
+2699,Melbourne (Olympic Park) {station 086338},2020-01-26,0.0,19.700000000000003,75.0,6.5
+2700,Melbourne (Olympic Park) {station 086338},2020-01-27,0.0,17.950000000000003,59.5,8.5
+2701,Melbourne (Olympic Park) {station 086338},2020-01-28,0.0,19.5,57.0,16.004490057729313
+2702,Melbourne (Olympic Park) {station 086338},2020-01-29,0.0,23.35,52.5,6.5
+2703,Melbourne (Olympic Park) {station 086338},2020-01-30,0.0,27.9,30.0,11.0
+2704,Melbourne (Olympic Park) {station 086338},2020-01-31,0.0,32.2,29.0,14.5
+2705,Melbourne (Olympic Park) {station 086338},2019-12-01,0.0,14.5,66.5,19.5
+2706,Melbourne (Olympic Park) {station 086338},2019-12-02,3.4,12.65,57.5,16.0
+2707,Melbourne (Olympic Park) {station 086338},2019-12-03,0.4,16.6,53.5,16.0
+2708,Melbourne (Olympic Park) {station 086338},2019-12-04,0.0,17.55,48.5,12.0
+2709,Melbourne (Olympic Park) {station 086338},2019-12-05,0.0,18.1,50.5,19.5
+2710,Melbourne (Olympic Park) {station 086338},2019-12-06,0.0,17.05,55.0,10.0
+2711,Melbourne (Olympic Park) {station 086338},2019-12-07,0.0,16.1,54.0,11.0
+2712,Melbourne (Olympic Park) {station 086338},2019-12-08,0.0,20.700000000000003,58.0,9.0
+2713,Melbourne (Olympic Park) {station 086338},2019-12-09,0.0,27.15,22.0,12.0
+2714,Melbourne (Olympic Park) {station 086338},2019-12-10,0.0,15.75,66.0,14.0
+2715,Melbourne (Olympic Park) {station 086338},2019-12-11,0.0,15.75,65.0,14.0
+2716,Melbourne (Olympic Park) {station 086338},2019-12-12,0.0,15.899999999999999,67.0,14.0
+2717,Melbourne (Olympic Park) {station 086338},2019-12-13,0.0,16.15,52.5,11.0
+2718,Melbourne (Olympic Park) {station 086338},2019-12-14,0.0,17.1,66.0,7.5
+2719,Melbourne (Olympic Park) {station 086338},2019-12-15,0.0,18.4,59.5,9.5
+2720,Melbourne (Olympic Park) {station 086338},2019-12-16,0.0,17.8,71.0,16.004490057729313
+2721,Melbourne (Olympic Park) {station 086338},2019-12-17,0.0,19.45,59.0,16.004490057729313
+2722,Melbourne (Olympic Park) {station 086338},2019-12-18,0.0,28.0,36.5,5.0
+2723,Melbourne (Olympic Park) {station 086338},2019-12-19,0.0,20.25,72.5,14.0
+2724,Melbourne (Olympic Park) {station 086338},2019-12-20,0.0,28.6,34.5,15.5
+2725,Melbourne (Olympic Park) {station 086338},2019-12-21,0.0,18.549999999999997,64.5,19.5
+2726,Melbourne (Olympic Park) {station 086338},2019-12-22,0.0,16.35,53.0,16.5
+2727,Melbourne (Olympic Park) {station 086338},2019-12-23,0.0,16.05,67.5,12.0
+2728,Melbourne (Olympic Park) {station 086338},2019-12-24,0.0,19.3,66.0,13.0
+2729,Melbourne (Olympic Park) {station 086338},2019-12-25,0.0,20.95,53.5,10.5
+2730,Melbourne (Olympic Park) {station 086338},2019-12-26,0.0,18.5,70.0,14.0
+2731,Melbourne (Olympic Park) {station 086338},2019-12-27,0.0,18.75,65.5,11.0
+2732,Melbourne (Olympic Park) {station 086338},2019-12-28,0.0,22.549999999999997,54.5,10.5
+2733,Melbourne (Olympic Park) {station 086338},2019-12-29,0.0,25.0,65.0,8.5
+2734,Melbourne (Olympic Park) {station 086338},2019-12-30,0.0,30.25,20.0,26.0
+2735,Melbourne (Olympic Park) {station 086338},2019-12-31,2.4,18.25,54.0,14.0
+2736,Melbourne (Olympic Park) {station 086338},2019-11-01,0.0,27.15,27.5,23.5
+2737,Melbourne (Olympic Park) {station 086338},2019-11-02,4.2,17.35,96.0,12.0
+2738,Melbourne (Olympic Park) {station 086338},2019-11-03,12.4,16.75,81.0,6.0
+2739,Melbourne (Olympic Park) {station 086338},2019-11-04,1.2,12.85,70.0,10.0
+2740,Melbourne (Olympic Park) {station 086338},2019-11-05,10.2,13.65,54.0,7.5
+2741,Melbourne (Olympic Park) {station 086338},2019-11-06,0.0,17.3,44.0,19.5
+2742,Melbourne (Olympic Park) {station 086338},2019-11-07,0.0,14.6,66.5,14.0
+2743,Melbourne (Olympic Park) {station 086338},2019-11-08,6.8,12.65,62.0,15.0
+2744,Melbourne (Olympic Park) {station 086338},2019-11-09,6.4,10.899999999999999,62.5,11.0
+2745,Melbourne (Olympic Park) {station 086338},2019-11-10,0.2,14.450000000000001,71.5,9.0
+2746,Melbourne (Olympic Park) {station 086338},2019-11-11,0.0,19.8,42.0,20.0
+2747,Melbourne (Olympic Park) {station 086338},2019-11-12,0.6,14.45,55.5,15.0
+2748,Melbourne (Olympic Park) {station 086338},2019-11-13,1.6,13.2,53.5,14.0
+2749,Melbourne (Olympic Park) {station 086338},2019-11-14,0.8,17.25,56.0,12.0
+2750,Melbourne (Olympic Park) {station 086338},2019-11-15,0.0,15.75,67.0,10.0
+2751,Melbourne (Olympic Park) {station 086338},2019-11-16,0.0,13.2,53.0,11.0
+2752,Melbourne (Olympic Park) {station 086338},2019-11-17,0.0,13.5,61.5,11.5
+2753,Melbourne (Olympic Park) {station 086338},2019-11-18,0.0,17.7,47.0,14.0
+2754,Melbourne (Olympic Park) {station 086338},2019-11-19,0.0,15.0,71.5,11.0
+2755,Melbourne (Olympic Park) {station 086338},2019-11-20,0.0,22.05,47.0,8.5
+2756,Melbourne (Olympic Park) {station 086338},2019-11-21,0.0,27.45,22.5,27.5
+2757,Melbourne (Olympic Park) {station 086338},2019-11-22,0.0,16.8,52.0,11.0
+2758,Melbourne (Olympic Park) {station 086338},2019-11-23,0.0,16.95,59.0,11.5
+2759,Melbourne (Olympic Park) {station 086338},2019-11-24,0.0,17.8,52.0,9.5
+2760,Melbourne (Olympic Park) {station 086338},2019-11-25,0.0,19.4,33.0,14.0
+2761,Melbourne (Olympic Park) {station 086338},2019-11-26,2.0,13.899999999999999,61.5,18.5
+2762,Melbourne (Olympic Park) {station 086338},2019-11-27,0.0,16.7,42.5,9.0
+2763,Melbourne (Olympic Park) {station 086338},2019-11-28,0.0,16.25,51.5,11.0
+2764,Melbourne (Olympic Park) {station 086338},2019-11-29,0.0,15.8,71.0,8.5
+2765,Melbourne (Olympic Park) {station 086338},2019-11-30,8.0,14.35,58.0,8.5
+2766,Melbourne (Olympic Park) {station 086338},2019-10-01,0.0,12.35,58.5,9.5
+2767,Melbourne (Olympic Park) {station 086338},2019-10-02,0.0,17.9,37.0,14.0
+2768,Melbourne (Olympic Park) {station 086338},2019-10-03,0.0,22.4,48.0,14.0
+2769,Melbourne (Olympic Park) {station 086338},2019-10-04,0.0,13.85,77.0,11.0
+2770,Melbourne (Olympic Park) {station 086338},2019-10-05,1.8,15.95,64.0,5.0
+2771,Melbourne (Olympic Park) {station 086338},2019-10-06,0.0,18.85,65.72295277943813,16.004490057729313
+2772,Melbourne (Olympic Park) {station 086338},2019-10-07,0.0,14.0,56.5,9.0
+2773,Melbourne (Olympic Park) {station 086338},2019-10-08,2.6,11.85,72.5,14.5
+2774,Melbourne (Olympic Park) {station 086338},2019-10-09,5.8,11.75,79.5,12.0
+2775,Melbourne (Olympic Park) {station 086338},2019-10-10,0.2,12.45,72.5,11.0
+2776,Melbourne (Olympic Park) {station 086338},2019-10-11,0.0,14.2,67.5,9.5
+2777,Melbourne (Olympic Park) {station 086338},2019-10-12,0.0,14.299999999999999,56.0,8.5
+2778,Melbourne (Olympic Park) {station 086338},2019-10-13,0.0,16.25,53.0,15.5
+2779,Melbourne (Olympic Park) {station 086338},2019-10-14,0.2,20.15,41.0,16.5
+2780,Melbourne (Olympic Park) {station 086338},2019-10-15,0.0,15.5,62.5,10.0
+2781,Melbourne (Olympic Park) {station 086338},2019-10-16,0.0,16.85,63.0,6.5
+2782,Melbourne (Olympic Park) {station 086338},2019-10-17,4.4,12.35,59.0,12.0
+2783,Melbourne (Olympic Park) {station 086338},2019-10-18,0.8,14.700000000000001,47.5,22.5
+2784,Melbourne (Olympic Park) {station 086338},2019-10-19,0.8,12.350000000000001,60.0,13.0
+2785,Melbourne (Olympic Park) {station 086338},2019-10-20,0.8,13.2,65.5,11.0
+2786,Melbourne (Olympic Park) {station 086338},2019-10-21,0.0,14.25,67.5,8.5
+2787,Melbourne (Olympic Park) {station 086338},2019-10-22,0.0,15.75,67.0,8.5
+2788,Melbourne (Olympic Park) {station 086338},2019-10-23,0.0,18.049999999999997,42.5,9.0
+2789,Melbourne (Olympic Park) {station 086338},2019-10-24,0.2,23.4,29.5,19.5
+2790,Melbourne (Olympic Park) {station 086338},2019-10-25,0.0,19.200000000000003,55.5,15.0
+2791,Melbourne (Olympic Park) {station 086338},2019-10-26,3.8,12.55,67.5,15.0
+2792,Melbourne (Olympic Park) {station 086338},2019-10-27,1.2,13.65,54.5,10.0
+2793,Melbourne (Olympic Park) {station 086338},2019-10-28,1.4,15.15,63.0,10.5
+2794,Melbourne (Olympic Park) {station 086338},2019-10-29,0.0,20.1,28.5,15.0
+2795,Melbourne (Olympic Park) {station 086338},2019-10-30,0.0,19.450000000000003,69.0,9.0
+2796,Melbourne (Olympic Park) {station 086338},2019-10-31,0.0,23.950000000000003,26.5,21.5
+2797,Melbourne (Olympic Park) {station 086338},2019-09-01,0.0,15.350000000000001,45.5,18.5
+2798,Melbourne (Olympic Park) {station 086338},2019-09-02,2.4,13.9,68.0,14.5
+2799,Melbourne (Olympic Park) {station 086338},2019-09-03,0.6,14.4,61.0,11.0
+2800,Melbourne (Olympic Park) {station 086338},2019-09-04,0.0,13.45,66.0,12.0
+2801,Melbourne (Olympic Park) {station 086338},2019-09-05,3.4,14.95,61.5,11.0
+2802,Melbourne (Olympic Park) {station 086338},2019-09-06,2.0,13.65,73.5,9.5
+2803,Melbourne (Olympic Park) {station 086338},2019-09-07,1.0,10.850000000000001,76.5,16.0
+2804,Melbourne (Olympic Park) {station 086338},2019-09-08,0.6,11.649999999999999,77.0,12.0
+2805,Melbourne (Olympic Park) {station 086338},2019-09-09,5.6,9.8,70.0,18.0
+2806,Melbourne (Olympic Park) {station 086338},2019-09-10,2.6,11.25,66.5,8.0
+2807,Melbourne (Olympic Park) {station 086338},2019-09-11,0.0,12.9,57.5,14.5
+2808,Melbourne (Olympic Park) {station 086338},2019-09-12,0.0,15.95,63.0,17.0
+2809,Melbourne (Olympic Park) {station 086338},2019-09-13,0.0,13.15,54.0,8.0
+2810,Melbourne (Olympic Park) {station 086338},2019-09-14,0.0,14.65,59.0,7.0
+2811,Melbourne (Olympic Park) {station 086338},2019-09-15,1.6,17.1,53.0,21.0
+2812,Melbourne (Olympic Park) {station 086338},2019-09-16,13.0,11.25,62.5,11.0
+2813,Melbourne (Olympic Park) {station 086338},2019-09-17,0.0,9.200000000000001,49.0,15.0
+2814,Melbourne (Olympic Park) {station 086338},2019-09-18,0.0,11.6,56.0,7.5
+2815,Melbourne (Olympic Park) {station 086338},2019-09-19,0.0,16.1,49.5,17.5
+2816,Melbourne (Olympic Park) {station 086338},2019-09-20,0.0,20.95,41.5,20.0
+2817,Melbourne (Olympic Park) {station 086338},2019-09-21,0.0,16.95,65.0,17.5
+2818,Melbourne (Olympic Park) {station 086338},2019-09-22,4.6,11.7,46.0,15.0
+2819,Melbourne (Olympic Park) {station 086338},2019-09-23,2.0,12.05,77.5,7.5
+2820,Melbourne (Olympic Park) {station 086338},2019-09-24,1.4,11.7,62.5,9.0
+2821,Melbourne (Olympic Park) {station 086338},2019-09-25,0.0,12.65,64.0,10.0
+2822,Melbourne (Olympic Park) {station 086338},2019-09-26,0.0,14.3,59.0,10.0
+2823,Melbourne (Olympic Park) {station 086338},2019-09-27,0.0,15.55,63.0,15.0
+2824,Melbourne (Olympic Park) {station 086338},2019-09-28,0.2,11.05,60.0,8.5
+2825,Melbourne (Olympic Park) {station 086338},2019-09-29,0.0,12.45,63.0,12.0
+2826,Melbourne (Olympic Park) {station 086338},2019-09-30,0.0,12.1,54.0,13.0
+2827,Melbourne (Olympic Park) {station 086338},2019-08-01,0.0,9.8,65.0,6.5
+2828,Melbourne (Olympic Park) {station 086338},2019-08-02,0.4,11.2,70.0,5.5
+2829,Melbourne (Olympic Park) {station 086338},2019-08-03,0.0,11.95,74.0,10.0
+2830,Melbourne (Olympic Park) {station 086338},2019-08-04,1.0,11.149999999999999,72.5,4.5
+2831,Melbourne (Olympic Park) {station 086338},2019-08-05,0.0,12.9,51.0,15.5
+2832,Melbourne (Olympic Park) {station 086338},2019-08-06,0.4,11.3,65.0,18.0
+2833,Melbourne (Olympic Park) {station 086338},2019-08-07,0.0,11.7,62.0,11.0
+2834,Melbourne (Olympic Park) {station 086338},2019-08-08,10.8,10.3,60.5,13.0
+2835,Melbourne (Olympic Park) {station 086338},2019-08-09,2.0,8.95,71.5,18.0
+2836,Melbourne (Olympic Park) {station 086338},2019-08-10,4.2,8.85,73.5,12.0
+2837,Melbourne (Olympic Park) {station 086338},2019-08-11,6.0,8.85,85.0,9.0
+2838,Melbourne (Olympic Park) {station 086338},2019-08-12,8.8,9.15,68.0,13.0
+2839,Melbourne (Olympic Park) {station 086338},2019-08-13,0.0,10.95,79.0,9.0
+2840,Melbourne (Olympic Park) {station 086338},2019-08-14,0.2,11.45,70.0,16.004490057729313
+2841,Melbourne (Olympic Park) {station 086338},2019-08-15,0.0,11.75,51.0,21.0
+2842,Melbourne (Olympic Park) {station 086338},2019-08-16,0.0,13.75,72.5,14.5
+2843,Melbourne (Olympic Park) {station 086338},2019-08-17,3.8,11.75,71.0,6.5
+2844,Melbourne (Olympic Park) {station 086338},2019-08-18,0.0,14.1,54.0,15.5
+2845,Melbourne (Olympic Park) {station 086338},2019-08-19,4.0,9.05,67.0,14.0
+2846,Melbourne (Olympic Park) {station 086338},2019-08-20,0.4,12.3,60.5,12.0
+2847,Melbourne (Olympic Park) {station 086338},2019-08-21,0.2,14.05,63.0,16.0
+2848,Melbourne (Olympic Park) {station 086338},2019-08-22,1.6,11.3,60.0,16.0
+2849,Melbourne (Olympic Park) {station 086338},2019-08-23,0.0,9.45,61.0,17.0
+2850,Melbourne (Olympic Park) {station 086338},2019-08-24,0.0,12.95,47.5,23.0
+2851,Melbourne (Olympic Park) {station 086338},2019-08-25,1.2,9.7,62.5,10.0
+2852,Melbourne (Olympic Park) {station 086338},2019-08-26,0.0,9.85,64.5,8.0
+2853,Melbourne (Olympic Park) {station 086338},2019-08-27,0.0,9.75,66.5,9.0
+2854,Melbourne (Olympic Park) {station 086338},2019-08-28,0.0,10.850000000000001,77.5,13.0
+2855,Melbourne (Olympic Park) {station 086338},2019-08-29,6.2,9.55,56.0,14.0
+2856,Melbourne (Olympic Park) {station 086338},2019-08-30,0.2,8.8,69.0,8.5
+2857,Melbourne (Olympic Park) {station 086338},2019-08-31,0.0,11.6,53.5,16.5
+2858,Melbourne (Olympic Park) {station 086338},2019-07-01,0.0,11.8,60.0,21.5
+2859,Melbourne (Olympic Park) {station 086338},2019-07-02,0.0,12.25,65.0,13.0
+2860,Melbourne (Olympic Park) {station 086338},2019-07-03,0.0,10.95,86.0,6.5
+2861,Melbourne (Olympic Park) {station 086338},2019-07-04,0.0,9.4,82.0,5.0
+2862,Melbourne (Olympic Park) {station 086338},2019-07-05,0.0,11.3,70.0,8.5
+2863,Melbourne (Olympic Park) {station 086338},2019-07-06,0.0,12.7,69.0,7.5
+2864,Melbourne (Olympic Park) {station 086338},2019-07-07,0.2,13.6,66.0,9.5
+2865,Melbourne (Olympic Park) {station 086338},2019-07-08,5.2,13.5,65.0,10.0
+2866,Melbourne (Olympic Park) {station 086338},2019-07-09,0.2,10.9,69.5,11.0
+2867,Melbourne (Olympic Park) {station 086338},2019-07-10,0.2,12.45,65.0,21.5
+2868,Melbourne (Olympic Park) {station 086338},2019-07-11,6.4,11.05,75.5,15.0
+2869,Melbourne (Olympic Park) {station 086338},2019-07-12,2.4,12.899999999999999,66.5,17.0
+2870,Melbourne (Olympic Park) {station 086338},2019-07-13,4.4,9.5,63.5,14.0
+2871,Melbourne (Olympic Park) {station 086338},2019-07-14,0.8,10.1,73.5,12.0
+2872,Melbourne (Olympic Park) {station 086338},2019-07-15,4.4,11.600000000000001,76.5,11.0
+2873,Melbourne (Olympic Park) {station 086338},2019-07-16,1.8,11.9,82.0,10.0
+2874,Melbourne (Olympic Park) {station 086338},2019-07-17,0.0,11.7,72.5,13.0
+2875,Melbourne (Olympic Park) {station 086338},2019-07-18,0.4,11.65,65.0,14.0
+2876,Melbourne (Olympic Park) {station 086338},2019-07-19,1.6,11.6,63.5,10.0
+2877,Melbourne (Olympic Park) {station 086338},2019-07-20,0.0,12.55,63.0,23.5
+2878,Melbourne (Olympic Park) {station 086338},2019-07-21,0.0,13.950000000000001,55.0,16.0
+2879,Melbourne (Olympic Park) {station 086338},2019-07-22,0.0,11.75,63.0,20.5
+2880,Melbourne (Olympic Park) {station 086338},2019-07-23,1.6,12.55,62.0,17.5
+2881,Melbourne (Olympic Park) {station 086338},2019-07-24,8.0,10.7,62.5,11.0
+2882,Melbourne (Olympic Park) {station 086338},2019-07-25,0.0,12.0,74.0,15.0
+2883,Melbourne (Olympic Park) {station 086338},2019-07-26,0.0,12.5,70.5,14.0
+2884,Melbourne (Olympic Park) {station 086338},2019-07-27,6.8,12.55,69.0,11.0
+2885,Melbourne (Olympic Park) {station 086338},2019-07-28,0.0,10.85,68.0,16.004490057729313
+2886,Melbourne (Olympic Park) {station 086338},2019-07-29,0.0,11.75,77.5,10.0
+2887,Melbourne (Olympic Park) {station 086338},2019-07-30,0.8,10.2,64.5,12.0
+2888,Melbourne (Olympic Park) {station 086338},2019-07-31,0.0,7.75,77.5,9.0
+2889,Melbourne (Olympic Park) {station 086338},2019-06-01,2.4,13.149999999999999,74.5,9.0
+2890,Melbourne (Olympic Park) {station 086338},2019-06-02,0.0,12.75,73.0,6.5
+2891,Melbourne (Olympic Park) {station 086338},2019-06-03,15.4,10.1,94.0,9.0
+2892,Melbourne (Olympic Park) {station 086338},2019-06-04,3.2,10.65,63.5,12.0
+2893,Melbourne (Olympic Park) {station 086338},2019-06-05,0.0,10.8,70.5,9.0
+2894,Melbourne (Olympic Park) {station 086338},2019-06-06,0.0,12.5,80.5,7.0
+2895,Melbourne (Olympic Park) {station 086338},2019-06-07,0.0,14.15,68.0,16.004490057729313
+2896,Melbourne (Olympic Park) {station 086338},2019-06-08,0.0,12.7,65.5,16.004490057729313
+2897,Melbourne (Olympic Park) {station 086338},2019-06-09,0.0,12.9,62.0,18.5
+2898,Melbourne (Olympic Park) {station 086338},2019-06-10,3.0,15.6,59.0,15.0
+2899,Melbourne (Olympic Park) {station 086338},2019-06-11,0.0,13.75,66.5,15.5
+2900,Melbourne (Olympic Park) {station 086338},2019-06-12,0.6,14.2,79.5,14.0
+2901,Melbourne (Olympic Park) {station 086338},2019-06-13,2.6,13.1,61.0,19.5
+2902,Melbourne (Olympic Park) {station 086338},2019-06-14,2.2,13.65,64.0,17.5
+2903,Melbourne (Olympic Park) {station 086338},2019-06-15,2.6,12.1,75.0,7.0
+2904,Melbourne (Olympic Park) {station 086338},2019-06-16,0.0,12.649999999999999,76.5,8.0
+2905,Melbourne (Olympic Park) {station 086338},2019-06-17,3.4,12.1,72.5,12.0
+2906,Melbourne (Olympic Park) {station 086338},2019-06-18,0.0,10.85,76.5,14.0
+2907,Melbourne (Olympic Park) {station 086338},2019-06-19,0.8,9.25,74.0,9.0
+2908,Melbourne (Olympic Park) {station 086338},2019-06-20,1.6,8.850000000000001,85.0,5.5
+2909,Melbourne (Olympic Park) {station 086338},2019-06-21,3.0,9.55,80.5,9.0
+2910,Melbourne (Olympic Park) {station 086338},2019-06-22,0.4,9.3,85.5,4.0
+2911,Melbourne (Olympic Park) {station 086338},2019-06-23,1.2,6.6,92.0,6.5
+2912,Melbourne (Olympic Park) {station 086338},2019-06-24,0.0,10.1,71.5,7.5
+2913,Melbourne (Olympic Park) {station 086338},2019-06-25,0.0,10.25,61.5,12.0
+2914,Melbourne (Olympic Park) {station 086338},2019-06-26,0.2,11.3,66.5,11.0
+2915,Melbourne (Olympic Park) {station 086338},2019-06-27,0.0,11.7,58.5,18.5
+2916,Melbourne (Olympic Park) {station 086338},2019-06-28,0.0,15.1,57.5,16.0
+2917,Melbourne (Olympic Park) {station 086338},2019-06-29,0.8,15.3,85.5,16.5
+2918,Melbourne (Olympic Park) {station 086338},2019-06-30,6.4,11.3,56.0,15.0
+2919,Melbourne (Olympic Park) {station 086338},2019-05-01,0.0,19.2,52.0,19.5
+2920,Melbourne (Olympic Park) {station 086338},2019-05-02,3.6,18.65,75.0,15.0
+2921,Melbourne (Olympic Park) {station 086338},2019-05-03,0.2,16.25,57.0,12.0
+2922,Melbourne (Olympic Park) {station 086338},2019-05-04,0.2,14.7,69.0,12.0
+2923,Melbourne (Olympic Park) {station 086338},2019-05-05,2.0,13.8,77.5,10.5
+2924,Melbourne (Olympic Park) {station 086338},2019-05-06,0.2,14.2,73.0,7.5
+2925,Melbourne (Olympic Park) {station 086338},2019-05-07,0.0,13.05,63.0,14.5
+2926,Melbourne (Olympic Park) {station 086338},2019-05-08,5.2,13.85,68.0,11.0
+2927,Melbourne (Olympic Park) {station 086338},2019-05-09,0.6,12.95,54.5,21.0
+2928,Melbourne (Olympic Park) {station 086338},2019-05-10,7.2,12.2,88.5,16.004490057729313
+2929,Melbourne (Olympic Park) {station 086338},2019-05-11,8.2,13.299999999999999,73.0,7.0
+2930,Melbourne (Olympic Park) {station 086338},2019-05-12,0.0,14.95,62.0,8.0
+2931,Melbourne (Olympic Park) {station 086338},2019-05-13,0.0,15.4,62.0,16.0
+2932,Melbourne (Olympic Park) {station 086338},2019-05-14,0.0,15.75,55.0,11.0
+2933,Melbourne (Olympic Park) {station 086338},2019-05-15,0.0,13.9,65.5,5.5
+2934,Melbourne (Olympic Park) {station 086338},2019-05-16,0.0,13.3,67.5,8.0
+2935,Melbourne (Olympic Park) {station 086338},2019-05-17,0.0,12.55,71.0,9.0
+2936,Melbourne (Olympic Park) {station 086338},2019-05-18,0.0,13.85,66.0,6.5
+2937,Melbourne (Olympic Park) {station 086338},2019-05-19,0.2,15.350000000000001,59.5,13.0
+2938,Melbourne (Olympic Park) {station 086338},2019-05-20,0.4,15.8,62.0,18.0
+2939,Melbourne (Olympic Park) {station 086338},2019-05-21,0.4,15.75,66.5,13.0
+2940,Melbourne (Olympic Park) {station 086338},2019-05-22,0.0,16.5,55.0,9.0
+2941,Melbourne (Olympic Park) {station 086338},2019-05-23,0.0,15.600000000000001,57.5,16.5
+2942,Melbourne (Olympic Park) {station 086338},2019-05-24,0.0,17.0,48.5,22.0
+2943,Melbourne (Olympic Park) {station 086338},2019-05-25,1.6,16.75,61.0,13.5
+2944,Melbourne (Olympic Park) {station 086338},2019-05-26,6.6,12.3,59.0,16.5
+2945,Melbourne (Olympic Park) {station 086338},2019-05-27,8.2,10.9,63.5,14.0
+2946,Melbourne (Olympic Park) {station 086338},2019-05-28,0.2,11.95,68.5,14.0
+2947,Melbourne (Olympic Park) {station 086338},2019-05-29,1.2,9.649999999999999,62.5,14.0
+2948,Melbourne (Olympic Park) {station 086338},2019-05-30,5.8,10.0,67.0,11.0
+2949,Melbourne (Olympic Park) {station 086338},2019-05-31,1.4,11.4,89.5,9.0
+2950,Ballarat Aerodrome {station 089002,2020-06-01,7.0,5.85,99.5,30.5
+2951,Ballarat Aerodrome {station 089002,2020-06-02,5.4,7.550000000000001,99.5,19.5
+2952,Ballarat Aerodrome {station 089002,2020-06-03,1.0,8.75,83.5,23.5
+2953,Ballarat Aerodrome {station 089002,2020-06-04,0.2,7.0,77.0,9.0
+2954,Ballarat Aerodrome {station 089002,2020-06-05,0.2,6.05,83.5,8.5
+2955,Ballarat Aerodrome {station 089002,2020-06-06,0.0,4.8,88.0,16.004490057729313
+2956,Ballarat Aerodrome {station 089002,2020-06-07,0.8,6.6,85.5,18.5
+2957,Ballarat Aerodrome {station 089002,2020-06-08,0.2,5.5,87.0,16.0
+2958,Ballarat Aerodrome {station 089002,2020-06-09,0.0,3.25,88.0,13.0
+2959,Ballarat Aerodrome {station 089002,2020-06-10,0.2,6.8,83.0,14.0
+2960,Ballarat Aerodrome {station 089002,2020-06-11,0.0,5.6499999999999995,72.5,9.5
+2961,Ballarat Aerodrome {station 089002,2020-06-12,0.0,5.35,85.0,17.5
+2962,Ballarat Aerodrome {station 089002,2020-06-13,0.0,9.100000000000001,88.0,34.0
+2963,Ballarat Aerodrome {station 089002,2020-06-14,1.8,7.65,94.0,24.0
+2964,Ballarat Aerodrome {station 089002,2020-06-15,2.6,10.05,99.0,26.0
+2965,Ballarat Aerodrome {station 089002,2020-06-16,0.0,11.35,93.0,28.5
+2966,Ballarat Aerodrome {station 089002,2020-06-17,1.6,7.2,83.0,16.004490057729313
+2967,Ballarat Aerodrome {station 089002,2020-06-18,0.0,6.35,91.5,28.0
+2968,Ballarat Aerodrome {station 089002,2020-06-19,0.0,8.4,98.0,34.0
+2969,Ballarat Aerodrome {station 089002,2020-06-20,5.6,8.7,99.0,26.0
+2970,Ballarat Aerodrome {station 089002,2020-06-21,4.6,6.8,99.0,8.0
+2971,Ballarat Aerodrome {station 089002,2020-06-22,1.4,6.75,99.0,10.5
+2972,Ballarat Aerodrome {station 089002,2020-06-23,6.0,9.45,89.5,19.5
+2973,Ballarat Aerodrome {station 089002,2020-06-24,0.0,9.55,91.0,9.0
+2974,Ballarat Aerodrome {station 089002,2020-06-25,0.0,8.05,92.5,22.0
+2975,Ballarat Aerodrome {station 089002,2020-05-01,14.2,6.449999999999999,98.5,34.0
+2976,Ballarat Aerodrome {station 089002,2020-05-02,5.4,7.6499999999999995,94.0,31.5
+2977,Ballarat Aerodrome {station 089002,2020-05-03,0.8,8.0,83.0,18.0
+2978,Ballarat Aerodrome {station 089002,2020-05-04,0.6,9.1,93.5,17.5
+2979,Ballarat Aerodrome {station 089002,2020-05-05,0.0,8.4,82.5,23.0
+2980,Ballarat Aerodrome {station 089002,2020-05-06,0.0,12.25,87.5,33.0
+2981,Ballarat Aerodrome {station 089002,2020-05-07,0.0,14.0,68.0,42.0
+2982,Ballarat Aerodrome {station 089002,2020-05-08,0.0,11.55,87.5,26.5
+2983,Ballarat Aerodrome {station 089002,2020-05-09,8.6,9.1,86.0,16.5
+2984,Ballarat Aerodrome {station 089002,2020-05-10,6.2,6.7,86.5,14.5
+2985,Ballarat Aerodrome {station 089002,2020-05-11,1.2,8.25,88.0,15.5
+2986,Ballarat Aerodrome {station 089002,2020-05-12,0.2,9.85,80.0,29.5
+2987,Ballarat Aerodrome {station 089002,2020-05-13,3.2,8.95,86.0,15.0
+2988,Ballarat Aerodrome {station 089002,2020-05-14,0.4,5.2,82.5,15.0
+2989,Ballarat Aerodrome {station 089002,2020-05-15,0.0,6.55,77.0,7.5
+2990,Ballarat Aerodrome {station 089002,2020-05-16,0.2,7.1000000000000005,80.5,23.0
+2991,Ballarat Aerodrome {station 089002,2020-05-17,0.0,7.85,71.5,16.004490057729313
+2992,Ballarat Aerodrome {station 089002,2020-05-18,0.0,7.5,85.0,17.5
+2993,Ballarat Aerodrome {station 089002,2020-05-19,0.0,10.4,86.0,36.0
+2994,Ballarat Aerodrome {station 089002,2020-05-20,13.4,8.95,80.5,27.0
+2995,Ballarat Aerodrome {station 089002,2020-05-21,6.4,7.95,90.0,19.5
+2996,Ballarat Aerodrome {station 089002,2020-05-22,0.0,8.1,94.5,13.0
+2997,Ballarat Aerodrome {station 089002,2020-05-23,0.0,8.65,99.0,18.5
+2998,Ballarat Aerodrome {station 089002,2020-05-24,1.6,8.75,89.5,29.5
+2999,Ballarat Aerodrome {station 089002,2020-05-25,0.2,8.600000000000001,77.5,26.0
+3000,Ballarat Aerodrome {station 089002,2020-05-26,0.4,6.8,80.5,20.5
+3001,Ballarat Aerodrome {station 089002,2020-05-27,0.0,10.9,85.5,21.5
+3002,Ballarat Aerodrome {station 089002,2020-05-28,0.0,8.5,89.0,15.0
+3003,Ballarat Aerodrome {station 089002,2020-05-29,0.0,8.6,91.0,23.5
+3004,Ballarat Aerodrome {station 089002,2020-05-30,0.2,9.75,83.5,45.5
+3005,Ballarat Aerodrome {station 089002,2020-05-31,0.2,9.5,90.0,22.5
+3006,Ballarat Aerodrome {station 089002,2020-04-01,0.0,14.5,68.5,16.004490057729313
+3007,Ballarat Aerodrome {station 089002,2020-04-02,18.6,13.5,100.0,16.0
+3008,Ballarat Aerodrome {station 089002,2020-04-03,4.2,15.65,82.0,30.5
+3009,Ballarat Aerodrome {station 089002,2020-04-04,30.6,10.899999999999999,99.5,25.0
+3010,Ballarat Aerodrome {station 089002,2020-04-05,5.0,9.55,99.0,38.0
+3011,Ballarat Aerodrome {station 089002,2020-04-06,5.4,9.7,81.5,11.0
+3012,Ballarat Aerodrome {station 089002,2020-04-07,0.0,9.5,81.0,19.0
+3013,Ballarat Aerodrome {station 089002,2020-04-08,0.0,12.45,88.0,28.0
+3014,Ballarat Aerodrome {station 089002,2020-04-09,0.0,14.9,60.5,8.0
+3015,Ballarat Aerodrome {station 089002,2020-04-10,0.2,14.149999999999999,80.5,22.0
+3016,Ballarat Aerodrome {station 089002,2020-04-11,6.0,10.55,74.0,33.0
+3017,Ballarat Aerodrome {station 089002,2020-04-12,1.2,9.55,75.5,14.0
+3018,Ballarat Aerodrome {station 089002,2020-04-13,0.0,13.15,65.0,7.5
+3019,Ballarat Aerodrome {station 089002,2020-04-14,0.0,14.7,58.0,21.0
+3020,Ballarat Aerodrome {station 089002,2020-04-15,0.0,16.5,59.0,35.0
+3021,Ballarat Aerodrome {station 089002,2020-04-16,0.0,13.6,81.5,18.0
+3022,Ballarat Aerodrome {station 089002,2020-04-17,0.0,10.350000000000001,82.5,22.0
+3023,Ballarat Aerodrome {station 089002,2020-04-18,0.2,11.05,75.0,18.5
+3024,Ballarat Aerodrome {station 089002,2020-04-19,0.0,10.95,76.0,16.004490057729313
+3025,Ballarat Aerodrome {station 089002,2020-04-20,1.8,13.65,61.0,26.0
+3026,Ballarat Aerodrome {station 089002,2020-04-21,0.2,9.600000000000001,74.0,23.5
+3027,Ballarat Aerodrome {station 089002,2020-04-22,0.0,10.399999999999999,80.5,15.0
+3028,Ballarat Aerodrome {station 089002,2020-04-23,0.0,10.100000000000001,77.5,26.0
+3029,Ballarat Aerodrome {station 089002,2020-04-24,0.0,14.2,75.5,17.0
+3030,Ballarat Aerodrome {station 089002,2020-04-25,0.0,12.549999999999999,76.5,27.0
+3031,Ballarat Aerodrome {station 089002,2020-04-26,15.2,13.55,81.0,21.0
+3032,Ballarat Aerodrome {station 089002,2020-04-27,0.4,7.55,81.5,11.0
+3033,Ballarat Aerodrome {station 089002,2020-04-28,0.2,8.4,89.0,23.0
+3034,Ballarat Aerodrome {station 089002,2020-04-29,1.0,11.5,100.0,17.5
+3035,Ballarat Aerodrome {station 089002,2020-04-30,13.8,6.3,99.5,15.5
+3036,Ballarat Aerodrome {station 089002,2020-03-01,0.0,20.55,48.0,29.5
+3037,Ballarat Aerodrome {station 089002,2020-03-02,2.8,13.45,71.0,28.5
+3038,Ballarat Aerodrome {station 089002,2020-03-03,0.0,14.05,69.0,32.0
+3039,Ballarat Aerodrome {station 089002,2020-03-04,0.0,16.2,68.5,9.0
+3040,Ballarat Aerodrome {station 089002,2020-03-05,16.8,16.35,100.0,18.5
+3041,Ballarat Aerodrome {station 089002,2020-03-06,0.4,14.7,83.5,21.5
+3042,Ballarat Aerodrome {station 089002,2020-03-07,0.0,14.05,74.5,27.0
+3043,Ballarat Aerodrome {station 089002,2020-03-08,0.0,15.3,72.5,35.0
+3044,Ballarat Aerodrome {station 089002,2020-03-09,0.0,14.5,67.0,30.5
+3045,Ballarat Aerodrome {station 089002,2020-03-10,0.0,17.05,65.0,15.5
+3046,Ballarat Aerodrome {station 089002,2020-03-11,0.0,19.65,52.0,19.5
+3047,Ballarat Aerodrome {station 089002,2020-03-12,0.0,22.35,36.5,28.5
+3048,Ballarat Aerodrome {station 089002,2020-03-13,0.0,22.6,51.5,32.5
+3049,Ballarat Aerodrome {station 089002,2020-03-14,0.0,11.5,57.5,36.0
+3050,Ballarat Aerodrome {station 089002,2020-03-15,0.0,12.700000000000001,85.0,25.0
+3051,Ballarat Aerodrome {station 089002,2020-03-16,0.0,16.75,52.0,15.5
+3052,Ballarat Aerodrome {station 089002,2020-03-17,0.0,17.75,48.5,23.5
+3053,Ballarat Aerodrome {station 089002,2020-03-18,0.0,22.55,38.0,30.5
+3054,Ballarat Aerodrome {station 089002,2020-03-19,0.0,24.15,30.0,33.0
+3055,Ballarat Aerodrome {station 089002,2020-03-20,0.0,14.399999999999999,78.0,26.5
+3056,Ballarat Aerodrome {station 089002,2020-03-21,0.2,13.75,72.0,13.0
+3057,Ballarat Aerodrome {station 089002,2020-03-22,0.0,12.55,74.0,22.5
+3058,Ballarat Aerodrome {station 089002,2020-03-23,0.2,11.4,71.5,24.0
+3059,Ballarat Aerodrome {station 089002,2020-03-24,0.0,13.25,62.5,19.0
+3060,Ballarat Aerodrome {station 089002,2020-03-25,0.0,11.5,74.5,27.5
+3061,Ballarat Aerodrome {station 089002,2020-03-26,0.0,14.2,71.0,27.0
+3062,Ballarat Aerodrome {station 089002,2020-03-27,0.0,16.3,60.0,16.5
+3063,Ballarat Aerodrome {station 089002,2020-03-28,0.0,19.45,49.0,32.5
+3064,Ballarat Aerodrome {station 089002,2020-03-29,0.0,19.65,77.5,25.0
+3065,Ballarat Aerodrome {station 089002,2020-03-30,6.6,14.85,73.5,14.0
+3066,Ballarat Aerodrome {station 089002,2020-03-31,0.2,13.75,72.0,16.004490057729313
+3067,Ballarat Aerodrome {station 089002,2020-02-01,14.0,23.65,100.0,16.0
+3068,Ballarat Aerodrome {station 089002,2020-02-02,8.8,16.4,64.0,24.0
+3069,Ballarat Aerodrome {station 089002,2020-02-03,0.2,12.850000000000001,71.0,26.0
+3070,Ballarat Aerodrome {station 089002,2020-02-04,0.2,12.7,51.5,27.0
+3071,Ballarat Aerodrome {station 089002,2020-02-05,0.0,15.5,59.0,28.5
+3072,Ballarat Aerodrome {station 089002,2020-02-06,0.0,20.0,64.0,19.5
+3073,Ballarat Aerodrome {station 089002,2020-02-07,0.0,21.1,54.5,19.5
+3074,Ballarat Aerodrome {station 089002,2020-02-08,0.0,21.65,66.5,33.0
+3075,Ballarat Aerodrome {station 089002,2020-02-09,0.0,20.7,65.5,21.5
+3076,Ballarat Aerodrome {station 089002,2020-02-10,0.0,19.15,84.0,22.5
+3077,Ballarat Aerodrome {station 089002,2020-02-11,0.6,20.4,81.5,11.5
+3078,Ballarat Aerodrome {station 089002,2020-02-12,1.4,19.35,98.5,26.0
+3079,Ballarat Aerodrome {station 089002,2020-02-13,0.0,23.25,76.0,18.5
+3080,Ballarat Aerodrome {station 089002,2020-02-14,0.0,23.5,79.5,22.5
+3081,Ballarat Aerodrome {station 089002,2020-02-15,9.6,17.35,96.0,22.5
+3082,Ballarat Aerodrome {station 089002,2020-02-16,0.4,17.2,87.0,32.0
+3083,Ballarat Aerodrome {station 089002,2020-02-17,0.0,20.3,70.0,12.0
+3084,Ballarat Aerodrome {station 089002,2020-02-18,1.4,19.05,84.0,16.5
+3085,Ballarat Aerodrome {station 089002,2020-02-19,4.6,14.5,75.5,29.0
+3086,Ballarat Aerodrome {station 089002,2020-02-20,0.0,13.9,68.5,22.0
+3087,Ballarat Aerodrome {station 089002,2020-02-21,0.0,13.7,83.5,27.0
+3088,Ballarat Aerodrome {station 089002,2020-02-22,0.0,15.85,57.0,29.5
+3089,Ballarat Aerodrome {station 089002,2020-02-23,0.0,19.650000000000002,48.5,17.5
+3090,Ballarat Aerodrome {station 089002,2020-02-24,0.0,21.049999999999997,61.5,24.0
+3091,Ballarat Aerodrome {station 089002,2020-02-25,3.8,23.3,57.0,27.0
+3092,Ballarat Aerodrome {station 089002,2020-02-26,0.0,14.600000000000001,60.5,29.5
+3093,Ballarat Aerodrome {station 089002,2020-02-27,0.6,10.05,78.0,16.5
+3094,Ballarat Aerodrome {station 089002,2020-02-28,0.0,13.15,84.5,15.0
+3095,Ballarat Aerodrome {station 089002,2020-02-29,0.0,16.9,73.5,11.0
+3096,Ballarat Aerodrome {station 089002,2020-01-01,0.2,16.65,45.0,18.0
+3097,Ballarat Aerodrome {station 089002,2020-01-02,0.0,17.9,43.0,17.0
+3098,Ballarat Aerodrome {station 089002,2020-01-03,0.0,22.9,40.5,20.5
+3099,Ballarat Aerodrome {station 089002,2020-01-04,0.0,20.75,55.5,23.5
+3100,Ballarat Aerodrome {station 089002,2020-01-05,1.8,11.649999999999999,84.0,33.0
+3101,Ballarat Aerodrome {station 089002,2020-01-06,1.2,13.9,76.5,25.0
+3102,Ballarat Aerodrome {station 089002,2020-01-07,0.2,17.25,79.5,25.5
+3103,Ballarat Aerodrome {station 089002,2020-01-08,0.0,19.75,51.5,36.0
+3104,Ballarat Aerodrome {station 089002,2020-01-09,0.0,23.75,53.0,16.0
+3105,Ballarat Aerodrome {station 089002,2020-01-10,0.0,23.55,75.0,35.0
+3106,Ballarat Aerodrome {station 089002,2020-01-11,9.6,14.45,64.5,24.0
+3107,Ballarat Aerodrome {station 089002,2020-01-12,0.6,15.55,74.0,27.0
+3108,Ballarat Aerodrome {station 089002,2020-01-13,0.0,19.45,44.5,27.5
+3109,Ballarat Aerodrome {station 089002,2020-01-14,0.0,24.9,31.0,12.5
+3110,Ballarat Aerodrome {station 089002,2020-01-15,0.0,27.950000000000003,36.5,25.0
+3111,Ballarat Aerodrome {station 089002,2020-01-16,7.0,16.3,74.5,28.0
+3112,Ballarat Aerodrome {station 089002,2020-01-17,0.0,12.350000000000001,85.5,31.5
+3113,Ballarat Aerodrome {station 089002,2020-01-18,0.0,19.5,56.0,16.0
+3114,Ballarat Aerodrome {station 089002,2020-01-19,0.0,21.4,57.5,10.0
+3115,Ballarat Aerodrome {station 089002,2020-01-20,20.6,17.45,98.0,27.5
+3116,Ballarat Aerodrome {station 089002,2020-01-21,6.0,17.45,55.5,17.0
+3117,Ballarat Aerodrome {station 089002,2020-01-22,0.0,20.6,32.5,45.5
+3118,Ballarat Aerodrome {station 089002,2020-01-23,22.0,14.45,74.0,33.5
+3119,Ballarat Aerodrome {station 089002,2020-01-24,0.8,13.2,64.5,18.5
+3120,Ballarat Aerodrome {station 089002,2020-01-25,0.0,17.4,56.0,14.0
+3121,Ballarat Aerodrome {station 089002,2020-01-26,0.0,17.8,77.5,11.5
+3122,Ballarat Aerodrome {station 089002,2020-01-27,0.0,17.65,67.0,16.0
+3123,Ballarat Aerodrome {station 089002,2020-01-28,0.0,18.55,50.5,16.0
+3124,Ballarat Aerodrome {station 089002,2020-01-29,0.0,22.35,60.0,7.0
+3125,Ballarat Aerodrome {station 089002,2020-01-30,0.0,25.150000000000002,16.5,21.0
+3126,Ballarat Aerodrome {station 089002,2020-01-31,0.0,29.049999999999997,27.5,21.5
+3127,Ballarat Aerodrome {station 089002,2019-12-01,0.2,10.1,74.5,30.5
+3128,Ballarat Aerodrome {station 089002,2019-12-02,1.8,8.35,84.5,29.0
+3129,Ballarat Aerodrome {station 089002,2019-12-03,2.6,12.05,72.0,34.0
+3130,Ballarat Aerodrome {station 089002,2019-12-04,0.2,14.55,61.5,31.5
+3131,Ballarat Aerodrome {station 089002,2019-12-05,0.0,12.35,68.5,27.5
+3132,Ballarat Aerodrome {station 089002,2019-12-06,0.0,13.45,68.0,22.0
+3133,Ballarat Aerodrome {station 089002,2019-12-07,0.0,13.2,61.0,18.5
+3134,Ballarat Aerodrome {station 089002,2019-12-08,0.0,17.75,44.5,9.5
+3135,Ballarat Aerodrome {station 089002,2019-12-09,0.0,24.25,21.5,28.0
+3136,Ballarat Aerodrome {station 089002,2019-12-10,0.0,15.3,71.0,24.0
+3137,Ballarat Aerodrome {station 089002,2019-12-11,0.0,15.299999999999999,60.0,27.0
+3138,Ballarat Aerodrome {station 089002,2019-12-12,0.0,13.4,73.5,21.5
+3139,Ballarat Aerodrome {station 089002,2019-12-13,0.0,13.100000000000001,62.0,26.0
+3140,Ballarat Aerodrome {station 089002,2019-12-14,0.0,15.350000000000001,79.0,20.5
+3141,Ballarat Aerodrome {station 089002,2019-12-15,0.0,16.1,69.5,17.5
+3142,Ballarat Aerodrome {station 089002,2019-12-16,0.0,17.0,59.5,19.5
+3143,Ballarat Aerodrome {station 089002,2019-12-17,0.0,20.7,41.0,16.0
+3144,Ballarat Aerodrome {station 089002,2019-12-18,0.0,14.049464604402143,14.5,21.5
+3145,Ballarat Aerodrome {station 089002,2019-12-19,0.0,23.05,44.5,21.5
+3146,Ballarat Aerodrome {station 089002,2019-12-20,0.0,28.1,13.0,33.5
+3147,Ballarat Aerodrome {station 089002,2019-12-21,0.0,16.85,58.5,28.0
+3148,Ballarat Aerodrome {station 089002,2019-12-22,0.0,14.85,47.0,29.5
+3149,Ballarat Aerodrome {station 089002,2019-12-23,0.0,17.85,49.5,19.5
+3150,Ballarat Aerodrome {station 089002,2019-12-24,0.0,18.25,46.5,20.0
+3151,Ballarat Aerodrome {station 089002,2019-12-25,0.0,21.4,26.5,15.5
+3152,Ballarat Aerodrome {station 089002,2019-12-26,0.0,19.1,59.5,19.5
+3153,Ballarat Aerodrome {station 089002,2019-12-27,0.0,22.7,31.5,21.5
+3154,Ballarat Aerodrome {station 089002,2019-12-28,0.0,14.049464604402143,27.5,15.5
+3155,Ballarat Aerodrome {station 089002,2019-12-29,0.0,26.95,23.0,22.0
+3156,Ballarat Aerodrome {station 089002,2019-12-30,0.0,29.0,21.0,39.0
+3157,Ballarat Aerodrome {station 089002,2019-12-31,0.6,16.3,48.0,25.0
+3158,Ballarat Aerodrome {station 089002,2019-11-01,0.0,22.25,46.5,31.5
+3159,Ballarat Aerodrome {station 089002,2019-11-02,17.0,15.0,99.5,31.5
+3160,Ballarat Aerodrome {station 089002,2019-11-03,3.8,15.649999999999999,74.5,14.5
+3161,Ballarat Aerodrome {station 089002,2019-11-04,2.2,7.8,97.5,13.0
+3162,Ballarat Aerodrome {station 089002,2019-11-05,10.4,8.25,77.5,17.0
+3163,Ballarat Aerodrome {station 089002,2019-11-06,0.0,14.049464604402143,67.5,36.0
+3164,Ballarat Aerodrome {station 089002,2019-11-07,1.0,10.0,88.0,29.5
+3165,Ballarat Aerodrome {station 089002,2019-11-08,9.4,8.95,80.0,25.5
+3166,Ballarat Aerodrome {station 089002,2019-11-09,5.4,6.8500000000000005,93.5,28.5
+3167,Ballarat Aerodrome {station 089002,2019-11-10,1.0,10.65,99.0,16.5
+3168,Ballarat Aerodrome {station 089002,2019-11-11,0.0,14.7,65.0,31.0
+3169,Ballarat Aerodrome {station 089002,2019-11-12,0.2,10.45,85.5,28.0
+3170,Ballarat Aerodrome {station 089002,2019-11-13,3.6,9.3,83.5,25.0
+3171,Ballarat Aerodrome {station 089002,2019-11-14,1.2,12.649999999999999,84.0,22.0
+3172,Ballarat Aerodrome {station 089002,2019-11-15,0.0,12.2,99.5,27.5
+3173,Ballarat Aerodrome {station 089002,2019-11-16,0.8,8.8,72.0,19.5
+3174,Ballarat Aerodrome {station 089002,2019-11-17,0.0,10.55,68.5,20.5
+3175,Ballarat Aerodrome {station 089002,2019-11-18,0.2,13.45,59.0,24.0
+3176,Ballarat Aerodrome {station 089002,2019-11-19,0.0,13.6,78.5,23.0
+3177,Ballarat Aerodrome {station 089002,2019-11-20,0.0,18.25,35.5,17.5
+3178,Ballarat Aerodrome {station 089002,2019-11-21,0.0,26.349999999999998,41.5,38.5
+3179,Ballarat Aerodrome {station 089002,2019-11-22,0.0,13.649999999999999,58.0,16.5
+3180,Ballarat Aerodrome {station 089002,2019-11-23,0.0,12.2,66.0,21.5
+3181,Ballarat Aerodrome {station 089002,2019-11-24,0.0,13.75,48.0,10.0
+3182,Ballarat Aerodrome {station 089002,2019-11-25,0.0,15.2,39.0,16.004490057729313
+3183,Ballarat Aerodrome {station 089002,2019-11-26,1.6,10.35,78.5,26.5
+3184,Ballarat Aerodrome {station 089002,2019-11-27,2.8,11.3,53.5,23.0
+3185,Ballarat Aerodrome {station 089002,2019-11-28,0.0,14.75,57.5,17.5
+3186,Ballarat Aerodrome {station 089002,2019-11-29,0.0,14.1,67.5,11.0
+3187,Ballarat Aerodrome {station 089002,2019-11-30,0.6,10.9,58.5,17.0
+3188,Ballarat Aerodrome {station 089002,2019-10-01,0.0,9.35,48.5,19.5
+3189,Ballarat Aerodrome {station 089002,2019-10-02,0.0,14.4,46.0,28.0
+3190,Ballarat Aerodrome {station 089002,2019-10-03,0.0,18.2,48.5,24.0
+3191,Ballarat Aerodrome {station 089002,2019-10-04,0.0,10.399999999999999,89.5,18.0
+3192,Ballarat Aerodrome {station 089002,2019-10-05,2.0,13.35,65.5,18.0
+3193,Ballarat Aerodrome {station 089002,2019-10-06,0.0,15.65,70.0,28.5
+3194,Ballarat Aerodrome {station 089002,2019-10-07,0.2,10.55,78.0,15.5
+3195,Ballarat Aerodrome {station 089002,2019-10-08,1.7737061273051755,8.1,80.5,21.5
+3196,Ballarat Aerodrome {station 089002,2019-10-09,0.8,7.6,89.0,16.5
+3197,Ballarat Aerodrome {station 089002,2019-10-10,0.0,9.95,84.0,20.0
+3198,Ballarat Aerodrome {station 089002,2019-10-11,0.0,10.55,82.5,24.0
+3199,Ballarat Aerodrome {station 089002,2019-10-12,0.0,12.45,62.0,14.0
+3200,Ballarat Aerodrome {station 089002,2019-10-13,0.0,14.0,60.5,30.0
+3201,Ballarat Aerodrome {station 089002,2019-10-14,0.0,16.55,50.5,18.5
+3202,Ballarat Aerodrome {station 089002,2019-10-15,0.2,12.35,82.0,18.5
+3203,Ballarat Aerodrome {station 089002,2019-10-16,0.6,12.95,92.5,20.5
+3204,Ballarat Aerodrome {station 089002,2019-10-17,10.6,8.0,97.0,34.0
+3205,Ballarat Aerodrome {station 089002,2019-10-18,5.8,8.9,74.5,37.0
+3206,Ballarat Aerodrome {station 089002,2019-10-19,2.4,8.8,77.5,30.5
+3207,Ballarat Aerodrome {station 089002,2019-10-20,0.8,8.5,86.0,18.5
+3208,Ballarat Aerodrome {station 089002,2019-10-21,0.0,12.1,81.5,15.0
+3209,Ballarat Aerodrome {station 089002,2019-10-22,0.2,13.8,54.0,11.0
+3210,Ballarat Aerodrome {station 089002,2019-10-23,0.2,15.05,40.5,10.0
+3211,Ballarat Aerodrome {station 089002,2019-10-24,0.0,20.05,26.5,28.0
+3212,Ballarat Aerodrome {station 089002,2019-10-25,0.0,15.299999999999999,59.5,25.0
+3213,Ballarat Aerodrome {station 089002,2019-10-26,1.8,9.1,75.5,35.0
+3214,Ballarat Aerodrome {station 089002,2019-10-27,1.4,8.85,85.5,17.5
+3215,Ballarat Aerodrome {station 089002,2019-10-28,3.0,11.4,68.0,7.5
+3216,Ballarat Aerodrome {station 089002,2019-10-29,0.0,16.05,34.0,28.5
+3217,Ballarat Aerodrome {station 089002,2019-10-30,0.0,19.55,28.0,16.0
+3218,Ballarat Aerodrome {station 089002,2019-10-31,0.0,21.55,39.0,32.5
+3219,Ballarat Aerodrome {station 089002,2019-09-01,0.0,11.75,78.0,35.0
+3220,Ballarat Aerodrome {station 089002,2019-09-02,0.8,9.8,89.0,19.0
+3221,Ballarat Aerodrome {station 089002,2019-09-03,1.0,12.4,52.5,16.0
+3222,Ballarat Aerodrome {station 089002,2019-09-04,0.2,9.7,81.5,13.5
+3223,Ballarat Aerodrome {station 089002,2019-09-05,0.0,9.4,82.0,21.0
+3224,Ballarat Aerodrome {station 089002,2019-09-06,1.2,7.449999999999999,93.5,29.5
+3225,Ballarat Aerodrome {station 089002,2019-09-07,5.2,6.75,93.5,34.0
+3226,Ballarat Aerodrome {station 089002,2019-09-08,1.8,7.6,98.0,21.0
+3227,Ballarat Aerodrome {station 089002,2019-09-09,7.8,6.6,76.5,29.5
+3228,Ballarat Aerodrome {station 089002,2019-09-10,0.2,7.05,86.0,12.0
+3229,Ballarat Aerodrome {station 089002,2019-09-11,0.0,7.4,79.0,25.0
+3230,Ballarat Aerodrome {station 089002,2019-09-12,0.0,11.649999999999999,68.5,27.0
+3231,Ballarat Aerodrome {station 089002,2019-09-13,0.0,7.85,73.0,13.5
+3232,Ballarat Aerodrome {station 089002,2019-09-14,0.0,11.85,68.5,16.5
+3233,Ballarat Aerodrome {station 089002,2019-09-15,2.6,12.35,76.0,23.0
+3234,Ballarat Aerodrome {station 089002,2019-09-16,15.4,8.05,82.5,31.5
+3235,Ballarat Aerodrome {station 089002,2019-09-17,0.4,5.8,62.0,22.5
+3236,Ballarat Aerodrome {station 089002,2019-09-18,0.0,7.15,62.5,19.5
+3237,Ballarat Aerodrome {station 089002,2019-09-19,0.0,12.2,67.0,42.5
+3238,Ballarat Aerodrome {station 089002,2019-09-20,0.0,17.5,58.5,35.0
+3239,Ballarat Aerodrome {station 089002,2019-09-21,0.0,11.75,99.5,19.5
+3240,Ballarat Aerodrome {station 089002,2019-09-22,7.2,6.15,79.5,23.0
+3241,Ballarat Aerodrome {station 089002,2019-09-23,1.6,7.95,97.0,19.5
+3242,Ballarat Aerodrome {station 089002,2019-09-24,0.8,6.25,86.5,18.0
+3243,Ballarat Aerodrome {station 089002,2019-09-25,0.0,8.4,80.5,15.0
+3244,Ballarat Aerodrome {station 089002,2019-09-26,0.2,8.8,69.5,15.5
+3245,Ballarat Aerodrome {station 089002,2019-09-27,0.0,10.45,79.5,29.0
+3246,Ballarat Aerodrome {station 089002,2019-09-28,0.0,7.2,69.0,15.5
+3247,Ballarat Aerodrome {station 089002,2019-09-29,0.2,8.6,82.0,15.0
+3248,Ballarat Aerodrome {station 089002,2019-09-30,0.0,9.1,68.0,24.0
+3249,Ballarat Aerodrome {station 089002,2019-08-01,0.0,7.2,86.0,13.0
+3250,Ballarat Aerodrome {station 089002,2019-08-02,0.8,7.6499999999999995,89.0,10.5
+3251,Ballarat Aerodrome {station 089002,2019-08-03,0.4,8.05,97.0,18.0
+3252,Ballarat Aerodrome {station 089002,2019-08-04,0.8,7.7,85.5,4.5
+3253,Ballarat Aerodrome {station 089002,2019-08-05,0.0,7.6,82.0,24.0
+3254,Ballarat Aerodrome {station 089002,2019-08-06,0.2,7.699999999999999,86.0,31.5
+3255,Ballarat Aerodrome {station 089002,2019-08-07,0.0,7.65,79.5,9.0
+3256,Ballarat Aerodrome {station 089002,2019-08-08,17.4,5.85,89.0,30.5
+3257,Ballarat Aerodrome {station 089002,2019-08-09,14.4,4.4,94.0,30.5
+3258,Ballarat Aerodrome {station 089002,2019-08-10,5.8,4.55,99.0,26.5
+3259,Ballarat Aerodrome {station 089002,2019-08-11,13.8,5.050000000000001,95.5,24.0
+3260,Ballarat Aerodrome {station 089002,2019-08-12,1.8,4.95,90.5,16.5
+3261,Ballarat Aerodrome {station 089002,2019-08-13,1.0,6.6499999999999995,99.0,14.0
+3262,Ballarat Aerodrome {station 089002,2019-08-14,0.0,6.4,89.0,25.0
+3263,Ballarat Aerodrome {station 089002,2019-08-15,0.0,6.3500000000000005,81.5,29.5
+3264,Ballarat Aerodrome {station 089002,2019-08-16,0.2,7.949999999999999,86.5,27.0
+3265,Ballarat Aerodrome {station 089002,2019-08-17,3.4,6.3500000000000005,83.0,12.0
+3266,Ballarat Aerodrome {station 089002,2019-08-18,0.0,7.15,86.5,27.5
+3267,Ballarat Aerodrome {station 089002,2019-08-19,5.2,5.0,97.0,24.0
+3268,Ballarat Aerodrome {station 089002,2019-08-20,1.4,7.800000000000001,87.0,30.5
+3269,Ballarat Aerodrome {station 089002,2019-08-21,1.6,10.149999999999999,87.5,28.5
+3270,Ballarat Aerodrome {station 089002,2019-08-22,1.8,8.7,75.5,24.0
+3271,Ballarat Aerodrome {station 089002,2019-08-23,0.0,5.2,87.5,20.5
+3272,Ballarat Aerodrome {station 089002,2019-08-24,0.0,8.8,69.5,33.0
+3273,Ballarat Aerodrome {station 089002,2019-08-25,0.8,5.6,98.5,13.0
+3274,Ballarat Aerodrome {station 089002,2019-08-26,0.6,6.3,81.0,11.0
+3275,Ballarat Aerodrome {station 089002,2019-08-27,0.0,8.0,84.5,15.0
+3276,Ballarat Aerodrome {station 089002,2019-08-28,0.0,5.5,99.5,20.5
+3277,Ballarat Aerodrome {station 089002,2019-08-29,4.0,5.05,80.0,26.0
+3278,Ballarat Aerodrome {station 089002,2019-08-30,0.0,7.3,61.5,8.5
+3279,Ballarat Aerodrome {station 089002,2019-08-31,0.2,8.5,64.0,36.0
+3280,Ballarat Aerodrome {station 089003,2019-07-01,0.0,6.5,88.0,35.5
+3281,Ballarat Aerodrome {station 089004,2019-07-02,0.0,6.8,98.0,19.5
+3282,Ballarat Aerodrome {station 089005,2019-07-03,0.6,7.800000000000001,89.0,9.5
+3283,Ballarat Aerodrome {station 089006,2019-07-04,0.0,9.4,82.0,23.5
+3284,Ballarat Aerodrome {station 089007,2019-07-05,0.0,8.0,79.0,14.5
+3285,Ballarat Aerodrome {station 089008,2019-07-06,0.0,10.05,79.0,25.5
+3286,Ballarat Aerodrome {station 089009,2019-07-07,0.0,11.0,89.5,23.0
+3287,Ballarat Aerodrome {station 089010,2019-07-08,10.0,8.4,89.0,17.0
+3288,Ballarat Aerodrome {station 089011,2019-07-09,0.2,6.95,90.5,17.0
+3289,Ballarat Aerodrome {station 089012,2019-07-10,0.6,8.25,84.0,41.5
+3290,Ballarat Aerodrome {station 089013,2019-07-11,11.0,7.25,99.5,30.5
+3291,Ballarat Aerodrome {station 089014,2019-07-12,4.6,8.05,91.5,28.5
+3292,Ballarat Aerodrome {station 089015,2019-07-13,4.8,5.15,88.5,25.0
+3293,Ballarat Aerodrome {station 089016,2019-07-14,2.0,6.0,98.5,34.0
+3294,Ballarat Aerodrome {station 089017,2019-07-15,0.4,8.3,98.5,22.0
+3295,Ballarat Aerodrome {station 089018,2019-07-16,3.0,8.100000000000001,99.0,22.0
+3296,Ballarat Aerodrome {station 089019,2019-07-17,0.8,8.100000000000001,92.5,23.0
+3297,Ballarat Aerodrome {station 089020,2019-07-18,2.6,7.2,87.5,20.5
+3298,Ballarat Aerodrome {station 089021,2019-07-19,0.6,8.4,86.5,13.0
+3299,Ballarat Aerodrome {station 089022,2019-07-20,0.0,8.55,89.0,38.0
+3300,Ballarat Aerodrome {station 089023,2019-07-21,0.0,9.55,70.0,13.5
+3301,Ballarat Aerodrome {station 089024,2019-07-22,0.0,7.8999999999999995,80.0,40.5
+3302,Ballarat Aerodrome {station 089025,2019-07-23,1.8,8.3,87.0,37.0
+3303,Ballarat Aerodrome {station 089026,2019-07-24,3.6,6.6499999999999995,88.5,16.5
+3304,Ballarat Aerodrome {station 089027,2019-07-25,0.8,8.25,88.5,26.0
+3305,Ballarat Aerodrome {station 089028,2019-07-26,0.0,8.25,98.0,18.5
+3306,Ballarat Aerodrome {station 089029,2019-07-27,0.4,7.0,96.0,16.0
+3307,Ballarat Aerodrome {station 089030,2019-07-28,0.0,4.25,85.0,16.004490057729313
+3308,Ballarat Aerodrome {station 089031,2019-07-29,2.0,7.7,91.5,16.004490057729313
+3309,Ballarat Aerodrome {station 089032,2019-07-30,0.2,6.85,92.0,19.5
+3310,Ballarat Aerodrome {station 089033,2019-07-31,0.0,7.8,78.5,16.5
+3311,Ballarat Aerodrome {station 089033,2019-06-01,0.6,10.350000000000001,83.5,20.0
+3312,Ballarat Aerodrome {station 089033,2019-06-02,0.0,7.8999999999999995,99.5,24.0
+3313,Ballarat Aerodrome {station 089033,2019-06-03,12.6,7.050000000000001,85.5,32.5
+3314,Ballarat Aerodrome {station 089033,2019-06-04,2.4,6.45,100.0,24.0
+3315,Ballarat Aerodrome {station 089033,2019-06-05,2.2,7.05,84.0,18.0
+3316,Ballarat Aerodrome {station 089033,2019-06-06,1.0,8.8,99.0,15.0
+3317,Ballarat Aerodrome {station 089033,2019-06-07,0.2,9.7,83.0,14.5
+3318,Ballarat Aerodrome {station 089033,2019-06-08,0.0,7.7,77.5,27.0
+3319,Ballarat Aerodrome {station 089033,2019-06-09,0.2,9.1,84.0,24.0
+3320,Ballarat Aerodrome {station 089033,2019-06-10,4.2,10.4,83.0,28.5
+3321,Ballarat Aerodrome {station 089033,2019-06-11,0.0,9.0,86.0,27.0
+3322,Ballarat Aerodrome {station 089033,2019-06-12,3.6,10.45,100.0,29.0
+3323,Ballarat Aerodrome {station 089033,2019-06-13,18.8,7.300000000000001,85.5,24.0
+3324,Ballarat Aerodrome {station 089033,2019-06-14,3.2,8.5,99.5,22.0
+3325,Ballarat Aerodrome {station 089033,2019-06-15,2.0,7.7,87.0,11.0
+3326,Ballarat Aerodrome {station 089033,2019-06-16,0.2,8.55,92.0,12.0
+3327,Ballarat Aerodrome {station 089033,2019-06-17,0.2,6.550000000000001,96.0,14.5
+3328,Ballarat Aerodrome {station 089033,2019-06-18,3.6,6.449999999999999,99.0,13.0
+3329,Ballarat Aerodrome {station 089033,2019-06-19,1.8,5.05,88.5,11.0
+3330,Ballarat Aerodrome {station 089033,2019-06-20,0.0,3.9499999999999997,85.5,10.5
+3331,Ballarat Aerodrome {station 089033,2019-06-21,0.2,5.5,89.5,12.0
+3332,Ballarat Aerodrome {station 089033,2019-06-22,0.0,5.3,91.0,10.0
+3333,Ballarat Aerodrome {station 089033,2019-06-23,0.4,5.8,82.5,15.5
+3334,Ballarat Aerodrome {station 089033,2019-06-24,0.2,4.4,77.0,11.5
+3335,Ballarat Aerodrome {station 089033,2019-06-25,0.0,6.4,62.0,20.5
+3336,Ballarat Aerodrome {station 089033,2019-06-26,0.0,6.55,83.5,16.5
+3337,Ballarat Aerodrome {station 089033,2019-06-27,0.0,8.75,84.0,30.5
+3338,Ballarat Aerodrome {station 089033,2019-06-28,0.0,10.95,81.0,33.0
+3339,Ballarat Aerodrome {station 089033,2019-06-29,14.4,10.25,100.0,41.0
+3340,Ballarat Aerodrome {station 089033,2019-06-30,25.4,6.65,93.5,26.0
+3341,Ballarat Aerodrome {station 089033,2019-05-01,8.4,14.7,86.5,33.5
+3342,Ballarat Aerodrome {station 089033,2019-05-02,19.2,14.5,86.5,32.5
+3343,Ballarat Aerodrome {station 089033,2019-05-03,0.2,10.350000000000001,75.5,21.5
+3344,Ballarat Aerodrome {station 089033,2019-05-04,0.6,10.8,81.5,20.5
+3345,Ballarat Aerodrome {station 089033,2019-05-05,0.6,10.600000000000001,86.0,19.5
+3346,Ballarat Aerodrome {station 089033,2019-05-06,0.6,9.8,80.5,12.0
+3347,Ballarat Aerodrome {station 089033,2019-05-07,0.0,9.15,76.5,35.5
+3348,Ballarat Aerodrome {station 089033,2019-05-08,13.0,10.25,86.5,26.0
+3349,Ballarat Aerodrome {station 089033,2019-05-09,1.0,8.7,82.0,37.0
+3350,Ballarat Aerodrome {station 089033,2019-05-10,43.8,7.35,93.5,33.0
+3351,Ballarat Aerodrome {station 089033,2019-05-11,13.0,8.45,99.0,18.5
+3352,Ballarat Aerodrome {station 089033,2019-05-12,0.2,10.600000000000001,87.5,15.0
+3353,Ballarat Aerodrome {station 089033,2019-05-13,0.2,11.2,83.5,31.5
+3354,Ballarat Aerodrome {station 089033,2019-05-14,0.0,11.4,75.5,20.5
+3355,Ballarat Aerodrome {station 089033,2019-05-15,0.0,10.7,77.5,10.5
+3356,Ballarat Aerodrome {station 089033,2019-05-16,0.0,7.8,84.0,10.0
+3357,Ballarat Aerodrome {station 089033,2019-05-17,0.2,7.6499999999999995,83.0,10.0
+3358,Ballarat Aerodrome {station 089033,2019-05-18,0.0,9.6,70.5,16.004490057729313
+3359,Ballarat Aerodrome {station 089033,2019-05-19,0.0,11.75,61.5,25.5
+3360,Ballarat Aerodrome {station 089033,2019-05-20,1.4,13.65,98.5,30.5
+3361,Ballarat Aerodrome {station 089033,2019-05-21,0.6,10.85,90.5,19.5
+3362,Ballarat Aerodrome {station 089033,2019-05-22,0.2,11.149999999999999,83.5,15.5
+3363,Ballarat Aerodrome {station 089033,2019-05-23,0.0,12.0,80.5,30.5
+3364,Ballarat Aerodrome {station 089033,2019-05-24,1.6,12.8,85.5,31.5
+3365,Ballarat Aerodrome {station 089033,2019-05-25,0.2,10.3,92.0,25.0
+3366,Ballarat Aerodrome {station 089033,2019-05-26,3.4,7.3,99.0,27.5
+3367,Ballarat Aerodrome {station 089033,2019-05-27,12.0,5.75,98.0,26.0
+3368,Ballarat Aerodrome {station 089033,2019-05-28,5.0,8.1,100.0,24.0
+3369,Ballarat Aerodrome {station 089033,2019-05-29,3.6,4.5,95.5,23.0
+3370,Ballarat Aerodrome {station 089033,2019-05-30,7.6,5.55,93.5,14.0
+3371,Ballarat Aerodrome {station 089033,2019-05-31,1.8,7.3999999999999995,99.0,25.0
+3372,Albury Airport AWS {station 072160},2020-06-01,3.8,9.25,92.0,14.0
+3373,Albury Airport AWS {station 072160},2020-06-02,5.2,8.25,87.5,11.0
+3374,Albury Airport AWS {station 072160},2020-06-03,0.2,10.65,68.5,8.0
+3375,Albury Airport AWS {station 072160},2020-06-04,0.0,7.65,68.0,16.004490057729313
+3376,Albury Airport AWS {station 072160},2020-06-05,0.2,6.3,78.5,4.0
+3377,Albury Airport AWS {station 072160},2020-06-06,0.2,6.5,82.5,4.0
+3378,Albury Airport AWS {station 072160},2020-06-07,0.0,7.85,77.0,4.0
+3379,Albury Airport AWS {station 072160},2020-06-08,0.2,7.0,71.5,16.004490057729313
+3380,Albury Airport AWS {station 072160},2020-06-09,0.0,6.3999999999999995,81.0,16.004490057729313
+3381,Albury Airport AWS {station 072160},2020-06-10,0.0,8.4,90.0,16.004490057729313
+3382,Albury Airport AWS {station 072160},2020-06-11,0.2,9.649999999999999,83.5,16.004490057729313
+3383,Albury Airport AWS {station 072160},2020-06-12,0.2,9.0,84.5,16.004490057729313
+3384,Albury Airport AWS {station 072160},2020-06-13,0.0,10.0,88.0,16.004490057729313
+3385,Albury Airport AWS {station 072160},2020-06-14,5.4,10.65,78.0,16.0
+3386,Albury Airport AWS {station 072160},2020-06-15,3.2,9.85,100.0,8.5
+3387,Albury Airport AWS {station 072160},2020-06-16,5.6,10.55,93.5,16.004490057729313
+3388,Albury Airport AWS {station 072160},2020-06-17,1.8,10.3,86.5,16.004490057729313
+3389,Albury Airport AWS {station 072160},2020-06-18,0.0,9.9,84.0,16.004490057729313
+3390,Albury Airport AWS {station 072160},2020-06-19,0.0,8.2,94.0,16.004490057729313
+3391,Albury Airport AWS {station 072160},2020-06-20,2.6,10.0,97.5,14.0
+3392,Albury Airport AWS {station 072160},2020-06-21,18.6,8.9,98.5,5.0
+3393,Albury Airport AWS {station 072160},2020-06-22,9.2,7.800000000000001,92.5,8.0
+3394,Albury Airport AWS {station 072160},2020-06-23,1.4,9.5,89.5,10.0
+3395,Albury Airport AWS {station 072160},2020-06-24,0.2,8.85,94.5,16.004490057729313
+3396,Albury Airport AWS {station 072160},2020-06-25,0.0,10.45,92.5,16.004490057729313
+3397,Albury Airport AWS {station 072160},2020-05-01,3.2,8.45,89.0,30.5
+3398,Albury Airport AWS {station 072160},2020-05-02,16.4,10.399999999999999,80.0,25.0
+3399,Albury Airport AWS {station 072160},2020-05-03,0.2,9.95,69.0,14.0
+3400,Albury Airport AWS {station 072160},2020-05-04,0.0,9.799999999999999,77.0,6.5
+3401,Albury Airport AWS {station 072160},2020-05-05,0.0,11.049999999999999,72.5,16.004490057729313
+3402,Albury Airport AWS {station 072160},2020-05-06,0.0,11.35,83.5,16.004490057729313
+3403,Albury Airport AWS {station 072160},2020-05-07,0.0,14.45,77.0,16.004490057729313
+3404,Albury Airport AWS {station 072160},2020-05-08,0.0,15.25,62.0,16.004490057729313
+3405,Albury Airport AWS {station 072160},2020-05-09,0.0,12.55,92.0,13.0
+3406,Albury Airport AWS {station 072160},2020-05-10,6.2,8.3,71.5,15.0
+3407,Albury Airport AWS {station 072160},2020-05-11,0.0,9.299999999999999,74.0,5.5
+3408,Albury Airport AWS {station 072160},2020-05-12,0.0,8.1,85.5,5.0
+3409,Albury Airport AWS {station 072160},2020-05-13,0.0,10.3,81.0,16.004490057729313
+3410,Albury Airport AWS {station 072160},2020-05-14,0.0,10.100000000000001,71.5,16.004490057729313
+3411,Albury Airport AWS {station 072160},2020-05-15,0.0,9.45,69.5,5.0
+3412,Albury Airport AWS {station 072160},2020-05-16,0.0,9.95,74.0,16.004490057729313
+3413,Albury Airport AWS {station 072160},2020-05-17,0.0,11.149999999999999,70.0,16.004490057729313
+3414,Albury Airport AWS {station 072160},2020-05-18,0.0,11.350000000000001,68.5,8.5
+3415,Albury Airport AWS {station 072160},2020-05-19,0.0,10.95,74.5,10.5
+3416,Albury Airport AWS {station 072160},2020-05-20,5.6,12.2,75.0,15.5
+3417,Albury Airport AWS {station 072160},2020-05-21,0.0,7.6,96.5,16.004490057729313
+3418,Albury Airport AWS {station 072160},2020-05-22,3.0,7.95,79.0,6.5
+3419,Albury Airport AWS {station 072160},2020-05-23,0.4,9.25,80.5,7.0
+3420,Albury Airport AWS {station 072160},2020-05-24,0.8,8.1,75.5,16.004490057729313
+3421,Albury Airport AWS {station 072160},2020-05-25,0.0,8.35,69.5,13.5
+3422,Albury Airport AWS {station 072160},2020-05-26,0.0,10.5,66.0,16.004490057729313
+3423,Albury Airport AWS {station 072160},2020-05-27,0.0,10.55,86.0,16.004490057729313
+3424,Albury Airport AWS {station 072160},2020-05-28,0.2,12.0,83.5,16.004490057729313
+3425,Albury Airport AWS {station 072160},2020-05-29,0.0,9.85,85.0,6.0
+3426,Albury Airport AWS {station 072160},2020-05-30,0.2,9.9,88.5,16.004490057729313
+3427,Albury Airport AWS {station 072160},2020-05-31,0.0,9.95,78.0,16.004490057729313
+3428,Albury Airport AWS {station 072160},2020-04-01,0.0,17.55,65.0,16.004490057729313
+3429,Albury Airport AWS {station 072160},2020-04-02,16.0,18.450000000000003,84.5,16.5
+3430,Albury Airport AWS {station 072160},2020-04-03,7.6,17.05,77.5,11.0
+3431,Albury Airport AWS {station 072160},2020-04-04,3.0,15.8,76.5,32.5
+3432,Albury Airport AWS {station 072160},2020-04-05,10.4,12.4,69.0,20.5
+3433,Albury Airport AWS {station 072160},2020-04-06,1.2,15.149999999999999,62.0,12.0
+3434,Albury Airport AWS {station 072160},2020-04-07,0.2,13.100000000000001,65.0,4.0
+3435,Albury Airport AWS {station 072160},2020-04-08,0.0,16.5,63.5,8.0
+3436,Albury Airport AWS {station 072160},2020-04-09,0.0,17.8,55.0,11.0
+3437,Albury Airport AWS {station 072160},2020-04-10,0.6,18.25,73.5,16.004490057729313
+3438,Albury Airport AWS {station 072160},2020-04-11,0.8,15.75,62.0,33.0
+3439,Albury Airport AWS {station 072160},2020-04-12,0.8,11.35,69.0,11.0
+3440,Albury Airport AWS {station 072160},2020-04-13,0.0,13.649999999999999,72.5,6.0
+3441,Albury Airport AWS {station 072160},2020-04-14,0.0,14.45,73.5,16.004490057729313
+3442,Albury Airport AWS {station 072160},2020-04-15,0.0,17.700000000000003,56.5,7.5
+3443,Albury Airport AWS {station 072160},2020-04-16,0.6,20.45,68.5,11.5
+3444,Albury Airport AWS {station 072160},2020-04-17,0.4,13.6,62.0,15.0
+3445,Albury Airport AWS {station 072160},2020-04-18,0.0,12.5,63.5,11.0
+3446,Albury Airport AWS {station 072160},2020-04-19,0.0,11.0,67.0,5.5
+3447,Albury Airport AWS {station 072160},2020-04-20,0.6,15.5,64.0,14.5
+3448,Albury Airport AWS {station 072160},2020-04-21,0.0,14.75,77.5,8.0
+3449,Albury Airport AWS {station 072160},2020-04-22,0.0,14.35,59.5,10.5
+3450,Albury Airport AWS {station 072160},2020-04-23,0.0,11.9,73.0,8.5
+3451,Albury Airport AWS {station 072160},2020-04-24,2.4,15.3,84.5,16.004490057729313
+3452,Albury Airport AWS {station 072160},2020-04-25,0.2,14.299999999999999,86.5,8.0
+3453,Albury Airport AWS {station 072160},2020-04-26,9.0,15.0,87.0,15.0
+3454,Albury Airport AWS {station 072160},2020-04-27,1.6,11.3,71.5,9.0
+3455,Albury Airport AWS {station 072160},2020-04-28,0.0,12.899999999999999,77.0,16.004490057729313
+3456,Albury Airport AWS {station 072160},2020-04-29,31.2,14.850000000000001,91.0,29.0
+3457,Albury Airport AWS {station 072160},2020-04-30,29.8,12.05,86.0,15.5
+3458,Albury Airport AWS {station 072160},2020-03-01,0.0,23.5,41.0,16.004490057729313
+3459,Albury Airport AWS {station 072160},2020-03-02,0.0,23.1,37.5,13.0
+3460,Albury Airport AWS {station 072160},2020-03-03,0.0,19.1,45.5,7.5
+3461,Albury Airport AWS {station 072160},2020-03-04,4.0,18.35,97.0,16.004490057729313
+3462,Albury Airport AWS {station 072160},2020-03-05,82.0,19.049999999999997,95.0,25.0
+3463,Albury Airport AWS {station 072160},2020-03-06,15.6,22.25,69.5,16.0
+3464,Albury Airport AWS {station 072160},2020-03-07,0.0,20.85,53.0,9.5
+3465,Albury Airport AWS {station 072160},2020-03-08,0.0,20.1,52.0,8.5
+3466,Albury Airport AWS {station 072160},2020-03-09,0.0,20.25,49.5,12.0
+3467,Albury Airport AWS {station 072160},2020-03-10,0.0,20.2,57.5,8.0
+3468,Albury Airport AWS {station 072160},2020-03-11,0.0,20.95,55.0,6.5
+3469,Albury Airport AWS {station 072160},2020-03-12,0.0,20.75,53.0,16.004490057729313
+3470,Albury Airport AWS {station 072160},2020-03-13,0.0,21.6,54.0,10.0
+3471,Albury Airport AWS {station 072160},2020-03-14,4.8,16.75,38.5,21.0
+3472,Albury Airport AWS {station 072160},2020-03-15,0.0,17.1,41.5,9.5
+3473,Albury Airport AWS {station 072160},2020-03-16,0.0,17.7,47.5,9.0
+3474,Albury Airport AWS {station 072160},2020-03-17,0.0,19.4,53.0,16.004490057729313
+3475,Albury Airport AWS {station 072160},2020-03-18,0.0,20.15,51.0,16.004490057729313
+3476,Albury Airport AWS {station 072160},2020-03-19,0.0,23.6,52.0,16.004490057729313
+3477,Albury Airport AWS {station 072160},2020-03-20,0.0,22.25,35.0,22.5
+3478,Albury Airport AWS {station 072160},2020-03-21,0.0,18.299999999999997,57.0,6.5
+3479,Albury Airport AWS {station 072160},2020-03-22,0.0,17.5,55.5,13.0
+3480,Albury Airport AWS {station 072160},2020-03-23,0.0,18.45,45.0,13.0
+3481,Albury Airport AWS {station 072160},2020-03-24,0.0,17.0,62.0,16.004490057729313
+3482,Albury Airport AWS {station 072160},2020-03-25,0.0,19.3,61.0,9.0
+3483,Albury Airport AWS {station 072160},2020-03-26,0.0,19.6,41.5,13.0
+3484,Albury Airport AWS {station 072160},2020-03-27,0.0,18.65,50.0,6.5
+3485,Albury Airport AWS {station 072160},2020-03-28,0.0,18.9,53.5,7.0
+3486,Albury Airport AWS {station 072160},2020-03-29,0.0,19.2,61.5,16.004490057729313
+3487,Albury Airport AWS {station 072160},2020-03-30,23.4,20.45,76.0,8.5
+3488,Albury Airport AWS {station 072160},2020-03-31,0.0,17.25,71.0,5.0
+3489,Albury Airport AWS {station 072160},2020-02-01,0.0,35.3,28.0,25.0
+3490,Albury Airport AWS {station 072160},2020-02-02,0.0,25.25,45.0,22.5
+3491,Albury Airport AWS {station 072160},2020-02-03,0.0,20.25,38.5,30.5
+3492,Albury Airport AWS {station 072160},2020-02-04,0.0,20.65,28.5,14.0
+3493,Albury Airport AWS {station 072160},2020-02-05,0.0,22.8,35.0,16.004490057729313
+3494,Albury Airport AWS {station 072160},2020-02-06,0.0,24.9,35.0,5.5
+3495,Albury Airport AWS {station 072160},2020-02-07,1.2,23.75,51.0,6.5
+3496,Albury Airport AWS {station 072160},2020-02-08,0.6,24.2,40.0,21.5
+3497,Albury Airport AWS {station 072160},2020-02-09,0.2,25.1,45.0,18.0
+3498,Albury Airport AWS {station 072160},2020-02-10,4.0,23.65,64.5,17.5
+3499,Albury Airport AWS {station 072160},2020-02-11,4.8,24.55,83.5,10.0
+3500,Albury Airport AWS {station 072160},2020-02-12,10.0,26.4,53.0,12.0
+3501,Albury Airport AWS {station 072160},2020-02-13,0.0,27.650000000000002,43.5,14.0
+3502,Albury Airport AWS {station 072160},2020-02-14,0.4,27.25,58.0,11.5
+3503,Albury Airport AWS {station 072160},2020-02-15,1.2,27.05,55.5,16.004490057729313
+3504,Albury Airport AWS {station 072160},2020-02-16,0.0,28.0,42.5,13.0
+3505,Albury Airport AWS {station 072160},2020-02-17,0.0,26.5,49.5,10.0
+3506,Albury Airport AWS {station 072160},2020-02-18,0.0,26.6,48.0,17.5
+3507,Albury Airport AWS {station 072160},2020-02-19,1.6,19.8,57.5,24.0
+3508,Albury Airport AWS {station 072160},2020-02-20,0.0,18.85,39.5,9.5
+3509,Albury Airport AWS {station 072160},2020-02-21,0.0,21.2,41.5,9.0
+3510,Albury Airport AWS {station 072160},2020-02-22,0.0,23.049999999999997,40.5,17.0
+3511,Albury Airport AWS {station 072160},2020-02-23,0.0,24.15,53.5,12.0
+3512,Albury Airport AWS {station 072160},2020-02-24,0.0,26.35,38.5,7.5
+3513,Albury Airport AWS {station 072160},2020-02-25,0.0,26.55,44.5,13.0
+3514,Albury Airport AWS {station 072160},2020-02-26,0.2,23.950000000000003,52.5,22.5
+3515,Albury Airport AWS {station 072160},2020-02-27,0.0,17.05,34.5,9.5
+3516,Albury Airport AWS {station 072160},2020-02-28,0.0,19.45,42.5,14.0
+3517,Albury Airport AWS {station 072160},2020-02-29,0.0,20.7,49.5,8.5
+3518,Albury Airport AWS {station 072160},2020-01-01,0.0,24.45,30.5,13.0
+3519,Albury Airport AWS {station 072160},2020-01-02,0.0,26.05,28.0,8.5
+3520,Albury Airport AWS {station 072160},2020-01-03,0.0,26.45,31.0,8.0
+3521,Albury Airport AWS {station 072160},2020-01-04,0.0,31.65,21.5,17.0
+3522,Albury Airport AWS {station 072160},2020-01-05,0.0,22.0,35.0,19.5
+3523,Albury Airport AWS {station 072160},2020-01-06,0.2,18.4,80.5,7.5
+3524,Albury Airport AWS {station 072160},2020-01-07,2.2,24.55,60.5,8.0
+3525,Albury Airport AWS {station 072160},2020-01-08,0.0,27.05,38.0,11.0
+3526,Albury Airport AWS {station 072160},2020-01-09,0.0,28.8,36.0,13.0
+3527,Albury Airport AWS {station 072160},2020-01-10,0.0,31.3,32.5,18.5
+3528,Albury Airport AWS {station 072160},2020-01-11,0.0,22.6,29.0,16.5
+3529,Albury Airport AWS {station 072160},2020-01-12,0.0,22.2,37.5,14.0
+3530,Albury Airport AWS {station 072160},2020-01-13,0.0,24.7,29.5,15.0
+3531,Albury Airport AWS {station 072160},2020-01-14,0.0,26.299999999999997,32.0,5.5
+3532,Albury Airport AWS {station 072160},2020-01-15,0.0,26.3,45.5,13.0
+3533,Albury Airport AWS {station 072160},2020-01-16,0.0,27.75,37.5,18.5
+3534,Albury Airport AWS {station 072160},2020-01-17,0.0,24.15,40.5,10.0
+3535,Albury Airport AWS {station 072160},2020-01-18,0.0,26.049999999999997,39.0,13.0
+3536,Albury Airport AWS {station 072160},2020-01-19,0.0,26.400000000000002,43.5,12.0
+3537,Albury Airport AWS {station 072160},2020-01-20,10.2,18.799999999999997,82.5,8.0
+3538,Albury Airport AWS {station 072160},2020-01-21,7.8,21.6,72.0,7.0
+3539,Albury Airport AWS {station 072160},2020-01-22,0.0,25.25,47.0,17.5
+3540,Albury Airport AWS {station 072160},2020-01-23,0.0,20.65,67.5,18.0
+3541,Albury Airport AWS {station 072160},2020-01-24,3.6,18.75,37.5,14.0
+3542,Albury Airport AWS {station 072160},2020-01-25,0.0,21.3,39.5,8.5
+3543,Albury Airport AWS {station 072160},2020-01-26,0.0,24.3,38.5,6.5
+3544,Albury Airport AWS {station 072160},2020-01-27,0.0,26.35,36.0,13.0
+3545,Albury Airport AWS {station 072160},2020-01-28,0.0,25.35,26.0,16.004490057729313
+3546,Albury Airport AWS {station 072160},2020-01-29,0.0,26.75,29.5,7.5
+3547,Albury Airport AWS {station 072160},2020-01-30,0.0,28.9,31.5,10.0
+3548,Albury Airport AWS {station 072160},2020-01-31,0.0,32.900000000000006,23.5,15.5
+3549,Albury Airport AWS {station 072160},2019-12-01,0.0,11.350000000000001,67.0,16.0
+3550,Albury Airport AWS {station 072160},2019-12-02,10.8,13.75,61.0,25.0
+3551,Albury Airport AWS {station 072160},2019-12-03,1.6,15.1,53.5,17.0
+3552,Albury Airport AWS {station 072160},2019-12-04,0.0,17.4,38.5,27.0
+3553,Albury Airport AWS {station 072160},2019-12-05,0.0,18.0,33.5,19.5
+3554,Albury Airport AWS {station 072160},2019-12-06,0.0,19.25,33.5,22.5
+3555,Albury Airport AWS {station 072160},2019-12-07,0.0,18.450000000000003,36.5,15.5
+3556,Albury Airport AWS {station 072160},2019-12-08,0.0,21.7,32.0,7.5
+3557,Albury Airport AWS {station 072160},2019-12-09,0.0,25.1,30.5,10.0
+3558,Albury Airport AWS {station 072160},2019-12-10,0.0,25.799999999999997,29.0,15.0
+3559,Albury Airport AWS {station 072160},2019-12-11,0.0,21.8,33.5,11.5
+3560,Albury Airport AWS {station 072160},2019-12-12,0.0,21.8,29.0,23.0
+3561,Albury Airport AWS {station 072160},2019-12-13,0.0,19.15,30.0,20.5
+3562,Albury Airport AWS {station 072160},2019-12-14,0.0,21.3,38.5,20.5
+3563,Albury Airport AWS {station 072160},2019-12-15,0.0,22.45,34.0,17.0
+3564,Albury Airport AWS {station 072160},2019-12-16,0.0,23.75,25.5,19.5
+3565,Albury Airport AWS {station 072160},2019-12-17,0.0,26.35,34.0,6.5
+3566,Albury Airport AWS {station 072160},2019-12-18,0.0,28.15,29.5,9.0
+3567,Albury Airport AWS {station 072160},2019-12-19,0.0,30.15,28.5,9.5
+3568,Albury Airport AWS {station 072160},2019-12-20,0.0,30.6,17.5,5.5
+3569,Albury Airport AWS {station 072160},2019-12-21,0.0,29.8,24.5,17.5
+3570,Albury Airport AWS {station 072160},2019-12-22,0.0,25.4,14.5,14.0
+3571,Albury Airport AWS {station 072160},2019-12-23,0.0,24.9,30.0,7.5
+3572,Albury Airport AWS {station 072160},2019-12-24,0.0,27.4,28.5,10.0
+3573,Albury Airport AWS {station 072160},2019-12-25,0.0,26.0,36.5,13.0
+3574,Albury Airport AWS {station 072160},2019-12-26,0.0,27.85,29.5,9.0
+3575,Albury Airport AWS {station 072160},2019-12-27,0.0,30.2,28.0,11.0
+3576,Albury Airport AWS {station 072160},2019-12-28,0.0,29.9,26.5,18.5
+3577,Albury Airport AWS {station 072160},2019-12-29,0.0,31.55,29.0,4.5
+3578,Albury Airport AWS {station 072160},2019-12-30,0.0,30.950000000000003,23.5,22.0
+3579,Albury Airport AWS {station 072160},2019-12-31,0.0,31.15,15.0,25.0
+3580,Albury Airport AWS {station 072160},2019-11-01,0.0,23.549999999999997,36.0,13.0
+3581,Albury Airport AWS {station 072160},2019-11-02,0.0,26.05,36.0,34.0
+3582,Albury Airport AWS {station 072160},2019-11-03,11.0,18.7,81.5,8.0
+3583,Albury Airport AWS {station 072160},2019-11-04,3.0,16.200000000000003,54.0,15.5
+3584,Albury Airport AWS {station 072160},2019-11-05,1.0,13.75,50.5,12.0
+3585,Albury Airport AWS {station 072160},2019-11-06,0.2,16.15,52.5,14.5
+3586,Albury Airport AWS {station 072160},2019-11-07,0.0,15.450000000000001,48.0,26.5
+3587,Albury Airport AWS {station 072160},2019-11-08,1.8,14.85,82.0,14.0
+3588,Albury Airport AWS {station 072160},2019-11-09,2.2,10.55,51.5,25.0
+3589,Albury Airport AWS {station 072160},2019-11-10,0.0,15.649999999999999,53.5,21.0
+3590,Albury Airport AWS {station 072160},2019-11-11,0.0,18.1,44.0,10.0
+3591,Albury Airport AWS {station 072160},2019-11-12,0.0,19.05,22.0,29.5
+3592,Albury Airport AWS {station 072160},2019-11-13,0.0,13.700000000000001,44.5,16.5
+3593,Albury Airport AWS {station 072160},2019-11-14,0.0,16.4,49.0,17.0
+3594,Albury Airport AWS {station 072160},2019-11-15,0.0,16.3,43.0,20.5
+3595,Albury Airport AWS {station 072160},2019-11-16,0.0,15.8,31.5,14.0
+3596,Albury Airport AWS {station 072160},2019-11-17,0.0,16.799999999999997,36.0,14.0
+3597,Albury Airport AWS {station 072160},2019-11-18,0.0,18.0,35.5,9.5
+3598,Albury Airport AWS {station 072160},2019-11-19,0.0,21.8,31.5,11.5
+3599,Albury Airport AWS {station 072160},2019-11-20,0.0,22.1,30.5,10.0
+3600,Albury Airport AWS {station 072160},2019-11-21,0.0,27.0,26.5,20.5
+3601,Albury Airport AWS {station 072160},2019-11-22,0.0,22.75,33.5,14.5
+3602,Albury Airport AWS {station 072160},2019-11-23,0.0,19.75,32.0,13.0
+3603,Albury Airport AWS {station 072160},2019-11-24,0.0,21.5,29.5,9.5
+3604,Albury Airport AWS {station 072160},2019-11-25,0.0,22.25,22.0,9.5
+3605,Albury Airport AWS {station 072160},2019-11-26,0.4,17.45,73.5,34.5
+3606,Albury Airport AWS {station 072160},2019-11-27,3.4,15.45,35.0,9.5
+3607,Albury Airport AWS {station 072160},2019-11-28,0.0,19.65,26.5,14.5
+3608,Albury Airport AWS {station 072160},2019-11-29,0.0,23.4,22.5,17.5
+3609,Albury Airport AWS {station 072160},2019-11-30,0.0,20.4,36.5,28.0
+3610,Albury Airport AWS {station 072160},2019-10-01,0.0,12.65,55.5,10.0
+3611,Albury Airport AWS {station 072160},2019-10-02,0.0,15.200000000000001,52.0,10.0
+3612,Albury Airport AWS {station 072160},2019-10-03,0.0,20.2,38.5,15.0
+3613,Albury Airport AWS {station 072160},2019-10-04,0.0,16.15,50.5,6.5
+3614,Albury Airport AWS {station 072160},2019-10-05,0.4,19.6,52.5,15.0
+3615,Albury Airport AWS {station 072160},2019-10-06,0.2,22.0,41.5,15.5
+3616,Albury Airport AWS {station 072160},2019-10-07,0.0,14.75,70.5,13.0
+3617,Albury Airport AWS {station 072160},2019-10-08,0.0,10.5,80.5,15.0
+3618,Albury Airport AWS {station 072160},2019-10-09,7.4,10.5,59.5,5.5
+3619,Albury Airport AWS {station 072160},2019-10-10,0.0,12.0,59.5,5.5
+3620,Albury Airport AWS {station 072160},2019-10-11,0.0,14.55,50.0,13.0
+3621,Albury Airport AWS {station 072160},2019-10-12,0.0,15.049999999999999,56.5,9.0
+3622,Albury Airport AWS {station 072160},2019-10-13,0.0,13.149999999999999,55.5,12.0
+3623,Albury Airport AWS {station 072160},2019-10-14,0.0,17.05,55.5,11.5
+3624,Albury Airport AWS {station 072160},2019-10-15,0.0,17.8,42.5,12.0
+3625,Albury Airport AWS {station 072160},2019-10-16,0.0,16.95,76.0,15.5
+3626,Albury Airport AWS {station 072160},2019-10-17,6.4,13.600000000000001,58.5,29.5
+3627,Albury Airport AWS {station 072160},2019-10-18,0.2,12.75,54.0,11.5
+3628,Albury Airport AWS {station 072160},2019-10-19,0.0,13.600000000000001,51.0,27.0
+3629,Albury Airport AWS {station 072160},2019-10-20,0.0,11.450000000000001,55.0,17.5
+3630,Albury Airport AWS {station 072160},2019-10-21,0.2,17.15,52.5,16.004490057729313
+3631,Albury Airport AWS {station 072160},2019-10-22,0.0,18.15,44.0,7.5
+3632,Albury Airport AWS {station 072160},2019-10-23,0.0,18.7,39.5,6.5
+3633,Albury Airport AWS {station 072160},2019-10-24,0.0,20.299999999999997,35.5,11.0
+3634,Albury Airport AWS {station 072160},2019-10-25,0.0,22.4,41.0,19.5
+3635,Albury Airport AWS {station 072160},2019-10-26,0.0,15.55,44.5,40.0
+3636,Albury Airport AWS {station 072160},2019-10-27,0.4,11.75,47.5,11.5
+3637,Albury Airport AWS {station 072160},2019-10-28,0.0,14.65,40.0,7.5
+3638,Albury Airport AWS {station 072160},2019-10-29,0.0,17.0,37.5,8.0
+3639,Albury Airport AWS {station 072160},2019-10-30,0.0,19.900000000000002,33.5,9.0
+3640,Albury Airport AWS {station 072160},2019-10-31,0.0,20.65,36.5,9.5
+3641,Albury Airport AWS {station 072160},2019-09-01,0.0,10.6,62.0,13.5
+3642,Albury Airport AWS {station 072160},2019-09-02,0.8,9.95,77.0,6.0
+3643,Albury Airport AWS {station 072160},2019-09-03,0.0,13.0,61.5,7.5
+3644,Albury Airport AWS {station 072160},2019-09-04,0.0,9.85,73.0,7.5
+3645,Albury Airport AWS {station 072160},2019-09-05,0.0,12.350000000000001,79.5,8.5
+3646,Albury Airport AWS {station 072160},2019-09-06,0.2,11.3,80.5,13.5
+3647,Albury Airport AWS {station 072160},2019-09-07,8.2,10.5,71.0,28.0
+3648,Albury Airport AWS {station 072160},2019-09-08,0.0,9.35,70.0,19.5
+3649,Albury Airport AWS {station 072160},2019-09-09,4.0,9.850000000000001,55.0,22.5
+3650,Albury Airport AWS {station 072160},2019-09-10,0.0,7.35,62.5,12.0
+3651,Albury Airport AWS {station 072160},2019-09-11,0.0,9.55,68.0,10.0
+3652,Albury Airport AWS {station 072160},2019-09-12,0.0,11.0,67.5,8.0
+3653,Albury Airport AWS {station 072160},2019-09-13,0.0,10.450000000000001,64.5,13.0
+3654,Albury Airport AWS {station 072160},2019-09-14,0.0,10.8,59.0,16.004490057729313
+3655,Albury Airport AWS {station 072160},2019-09-15,0.0,11.05,72.0,10.0
+3656,Albury Airport AWS {station 072160},2019-09-16,1.6,13.0,92.5,10.5
+3657,Albury Airport AWS {station 072160},2019-09-17,2.8,12.0,47.0,15.5
+3658,Albury Airport AWS {station 072160},2019-09-18,0.0,11.200000000000001,60.0,7.5
+3659,Albury Airport AWS {station 072160},2019-09-19,0.0,14.2,61.0,11.0
+3660,Albury Airport AWS {station 072160},2019-09-20,0.0,16.75,58.0,15.5
+3661,Albury Airport AWS {station 072160},2019-09-21,0.0,18.35,61.0,30.5
+3662,Albury Airport AWS {station 072160},2019-09-22,0.6,11.25,56.5,13.0
+3663,Albury Airport AWS {station 072160},2019-09-23,2.2,9.7,74.0,22.5
+3664,Albury Airport AWS {station 072160},2019-09-24,0.2,8.95,65.0,12.5
+3665,Albury Airport AWS {station 072160},2019-09-25,0.0,9.75,58.5,13.0
+3666,Albury Airport AWS {station 072160},2019-09-26,0.0,10.049999999999999,61.0,6.0
+3667,Albury Airport AWS {station 072160},2019-09-27,0.0,13.25,54.5,10.5
+3668,Albury Airport AWS {station 072160},2019-09-28,0.0,10.45,49.0,9.5
+3669,Albury Airport AWS {station 072160},2019-09-29,0.0,10.85,56.5,20.5
+3670,Albury Airport AWS {station 072160},2019-09-30,0.0,11.0,54.5,10.0
+3671,Albury Airport AWS {station 072160},2019-08-01,0.0,7.4,81.5,7.5
+3672,Albury Airport AWS {station 072160},2019-08-02,0.0,7.5,80.5,8.5
+3673,Albury Airport AWS {station 072160},2019-08-03,0.2,6.65,85.0,9.5
+3674,Albury Airport AWS {station 072160},2019-08-04,0.2,7.0,83.5,16.004490057729313
+3675,Albury Airport AWS {station 072160},2019-08-05,0.0,8.15,73.5,5.0
+3676,Albury Airport AWS {station 072160},2019-08-06,0.0,6.15,79.5,8.0
+3677,Albury Airport AWS {station 072160},2019-08-07,0.0,6.25,82.5,7.5
+3678,Albury Airport AWS {station 072160},2019-08-08,1.2,8.55,72.5,24.0
+3679,Albury Airport AWS {station 072160},2019-08-09,10.4,7.550000000000001,74.5,33.5
+3680,Albury Airport AWS {station 072160},2019-08-10,3.6,5.85,77.5,19.5
+3681,Albury Airport AWS {station 072160},2019-08-11,8.0,7.9,65.0,19.0
+3682,Albury Airport AWS {station 072160},2019-08-12,0.0,6.4,73.5,9.5
+3683,Albury Airport AWS {station 072160},2019-08-13,0.0,6.2,73.5,5.0
+3684,Albury Airport AWS {station 072160},2019-08-14,0.0,8.05,79.5,7.5
+3685,Albury Airport AWS {station 072160},2019-08-15,0.0,7.75,67.0,4.5
+3686,Albury Airport AWS {station 072160},2019-08-16,0.0,8.25,72.0,16.004490057729313
+3687,Albury Airport AWS {station 072160},2019-08-17,0.8,8.8,77.5,16.004490057729313
+3688,Albury Airport AWS {station 072160},2019-08-18,0.0,10.45,70.0,16.004490057729313
+3689,Albury Airport AWS {station 072160},2019-08-19,9.0,8.0,70.0,26.0
+3690,Albury Airport AWS {station 072160},2019-08-20,0.0,7.699999999999999,79.5,15.0
+3691,Albury Airport AWS {station 072160},2019-08-21,0.2,11.600000000000001,77.0,24.0
+3692,Albury Airport AWS {station 072160},2019-08-22,0.0,12.55,53.0,25.0
+3693,Albury Airport AWS {station 072160},2019-08-23,0.0,6.6,60.0,8.5
+3694,Albury Airport AWS {station 072160},2019-08-24,0.0,8.649999999999999,61.0,13.0
+3695,Albury Airport AWS {station 072160},2019-08-25,0.0,10.4,57.5,15.5
+3696,Albury Airport AWS {station 072160},2019-08-26,0.0,8.1,58.5,4.0
+3697,Albury Airport AWS {station 072160},2019-08-27,0.0,8.549999999999999,58.5,16.004490057729313
+3698,Albury Airport AWS {station 072160},2019-08-28,0.0,7.1499999999999995,73.0,13.5
+3699,Albury Airport AWS {station 072160},2019-08-29,0.0,10.25,48.0,16.0
+3700,Albury Airport AWS {station 072160},2019-08-30,0.0,9.3,57.5,7.5
+3701,Albury Airport AWS {station 072160},2019-08-31,0.0,8.75,60.5,7.5
+3702,Albury Airport AWS {station 072160},2019-07-01,0.0,6.7,81.0,16.004490057729313
+3703,Albury Airport AWS {station 072160},2019-07-02,0.2,6.45,80.5,8.5
+3704,Albury Airport AWS {station 072160},2019-07-03,0.0,8.4,75.5,5.5
+3705,Albury Airport AWS {station 072160},2019-07-04,0.0,8.75,68.5,16.004490057729313
+3706,Albury Airport AWS {station 072160},2019-07-05,0.0,10.0,67.0,16.004490057729313
+3707,Albury Airport AWS {station 072160},2019-07-06,0.0,8.9,73.0,16.004490057729313
+3708,Albury Airport AWS {station 072160},2019-07-07,0.0,9.25,85.5,16.004490057729313
+3709,Albury Airport AWS {station 072160},2019-07-08,7.8,11.399999999999999,80.0,12.0
+3710,Albury Airport AWS {station 072160},2019-07-09,0.0,9.3,83.0,9.5
+3711,Albury Airport AWS {station 072160},2019-07-10,0.4,9.8,78.5,11.0
+3712,Albury Airport AWS {station 072160},2019-07-11,2.4,10.55,77.0,22.0
+3713,Albury Airport AWS {station 072160},2019-07-12,2.2,10.4,87.5,22.5
+3714,Albury Airport AWS {station 072160},2019-07-13,11.4,7.75,76.0,24.0
+3715,Albury Airport AWS {station 072160},2019-07-14,0.6,5.550000000000001,89.5,13.0
+3716,Albury Airport AWS {station 072160},2019-07-15,1.8,9.35,70.0,20.5
+3717,Albury Airport AWS {station 072160},2019-07-16,0.0,10.95,83.5,15.0
+3718,Albury Airport AWS {station 072160},2019-07-17,0.0,8.45,85.0,15.0
+3719,Albury Airport AWS {station 072160},2019-07-18,0.6,8.899999999999999,73.0,17.5
+3720,Albury Airport AWS {station 072160},2019-07-19,0.0,8.3,83.5,9.0
+3721,Albury Airport AWS {station 072160},2019-07-20,0.2,9.6,73.5,16.004490057729313
+3722,Albury Airport AWS {station 072160},2019-07-21,0.0,8.1,76.5,16.004490057729313
+3723,Albury Airport AWS {station 072160},2019-07-22,0.0,8.35,79.5,4.0
+3724,Albury Airport AWS {station 072160},2019-07-23,0.2,7.5,76.0,9.5
+3725,Albury Airport AWS {station 072160},2019-07-24,1.2,8.2,69.0,18.0
+3726,Albury Airport AWS {station 072160},2019-07-25,0.0,8.65,75.5,16.004490057729313
+3727,Albury Airport AWS {station 072160},2019-07-26,0.0,7.199999999999999,86.5,16.004490057729313
+3728,Albury Airport AWS {station 072160},2019-07-27,2.0,10.2,83.5,16.004490057729313
+3729,Albury Airport AWS {station 072160},2019-07-28,0.0,9.35,83.5,16.004490057729313
+3730,Albury Airport AWS {station 072160},2019-07-29,2.6,8.3,94.5,16.004490057729313
+3731,Albury Airport AWS {station 072160},2019-07-30,6.0,8.8,76.0,7.5
+3732,Albury Airport AWS {station 072160},2019-07-31,0.2,8.15,63.0,16.004490057729313
+3733,Albury Airport AWS {station 072160},2019-06-01,1.7737061273051755,9.5,72.0,16.004490057729313
+3734,Albury Airport AWS {station 072160},2019-06-02,0.0,9.3,75.0,16.004490057729313
+3735,Albury Airport AWS {station 072160},2019-06-03,0.0,8.65,79.0,8.5
+3736,Albury Airport AWS {station 072160},2019-06-04,0.0,7.55,59.5,5.5
+3737,Albury Airport AWS {station 072160},2019-06-05,0.0,5.75,60.5,16.004490057729313
+3738,Albury Airport AWS {station 072160},2019-06-06,0.2,6.85,72.0,16.004490057729313
+3739,Albury Airport AWS {station 072160},2019-06-07,0.0,7.6000000000000005,72.5,5.5
+3740,Albury Airport AWS {station 072160},2019-06-08,0.0,6.8,84.0,5.0
+3741,Albury Airport AWS {station 072160},2019-06-09,0.0,7.9,85.0,4.0
+3742,Albury Airport AWS {station 072160},2019-06-10,3.8,12.35,80.5,17.0
+3743,Albury Airport AWS {station 072160},2019-06-11,5.4,9.85,85.0,6.5
+3744,Albury Airport AWS {station 072160},2019-06-12,0.0,9.75,85.5,6.0
+3745,Albury Airport AWS {station 072160},2019-06-13,12.6,12.35,73.0,15.0
+3746,Albury Airport AWS {station 072160},2019-06-14,1.4,11.35,79.5,16.004490057729313
+3747,Albury Airport AWS {station 072160},2019-06-15,0.4,10.6,79.0,16.004490057729313
+3748,Albury Airport AWS {station 072160},2019-06-16,0.2,9.45,83.5,3.0
+3749,Albury Airport AWS {station 072160},2019-06-17,1.4,8.65,76.0,16.004490057729313
+3750,Albury Airport AWS {station 072160},2019-06-18,0.2,6.25,88.5,6.0
+3751,Albury Airport AWS {station 072160},2019-06-19,0.8,4.3999999999999995,83.5,5.5
+3752,Albury Airport AWS {station 072160},2019-06-20,0.2,4.55,79.5,11.0
+3753,Albury Airport AWS {station 072160},2019-06-21,0.0,5.0,84.5,16.004490057729313
+3754,Albury Airport AWS {station 072160},2019-06-22,0.4,6.1,74.5,6.5
+3755,Albury Airport AWS {station 072160},2019-06-23,0.0,5.75,67.0,5.5
+3756,Albury Airport AWS {station 072160},2019-06-24,0.0,5.9,67.5,16.004490057729313
+3757,Albury Airport AWS {station 072160},2019-06-25,0.2,7.1000000000000005,66.5,16.004490057729313
+3758,Albury Airport AWS {station 072160},2019-06-26,1.7737061273051755,7.3,65.72295277943813,16.004490057729313
+3759,Albury Airport AWS {station 072160},2019-06-27,1.7737061273051755,7.3999999999999995,76.5,7.5
+3760,Albury Airport AWS {station 072160},2019-06-28,0.2,8.5,77.5,4.5
+3761,Albury Airport AWS {station 072160},2019-06-29,0.0,10.7,73.5,22.0
+3762,Albury Airport AWS {station 072160},2019-06-30,15.6,9.2,76.5,13.0
+3763,Albury Airport AWS {station 072160},2019-05-01,0.0,16.45,65.5,24.0
+3764,Albury Airport AWS {station 072160},2019-05-02,9.0,19.55,76.0,11.5
+3765,Albury Airport AWS {station 072160},2019-05-03,46.2,17.15,74.5,10.0
+3766,Albury Airport AWS {station 072160},2019-05-04,0.0,13.350000000000001,67.5,14.5
+3767,Albury Airport AWS {station 072160},2019-05-05,0.0,12.15,60.5,16.004490057729313
+3768,Albury Airport AWS {station 072160},2019-05-06,0.0,11.0,62.0,10.5
+3769,Albury Airport AWS {station 072160},2019-05-07,0.0,10.1,77.5,16.004490057729313
+3770,Albury Airport AWS {station 072160},2019-05-08,2.0,11.45,77.0,17.5
+3771,Albury Airport AWS {station 072160},2019-05-09,0.0,10.65,69.0,15.0
+3772,Albury Airport AWS {station 072160},2019-05-10,2.2,12.25,87.5,16.004490057729313
+3773,Albury Airport AWS {station 072160},2019-05-11,20.2,11.1,61.5,12.0
+3774,Albury Airport AWS {station 072160},2019-05-12,0.0,11.95,77.0,8.5
+3775,Albury Airport AWS {station 072160},2019-05-13,0.0,9.55,79.0,6.0
+3776,Albury Airport AWS {station 072160},2019-05-14,0.0,10.15,78.0,6.0
+3777,Albury Airport AWS {station 072160},2019-05-15,0.2,11.1,79.5,9.0
+3778,Albury Airport AWS {station 072160},2019-05-16,0.0,10.299999999999999,77.0,4.5
+3779,Albury Airport AWS {station 072160},2019-05-17,0.0,11.100000000000001,65.0,4.5
+3780,Albury Airport AWS {station 072160},2019-05-18,0.0,12.049999999999999,66.0,4.5
+3781,Albury Airport AWS {station 072160},2019-05-19,0.0,11.75,78.0,16.004490057729313
+3782,Albury Airport AWS {station 072160},2019-05-20,0.0,10.950000000000001,90.5,16.004490057729313
+3783,Albury Airport AWS {station 072160},2019-05-21,2.4,14.55,65.72295277943813,8.0
+3784,Albury Airport AWS {station 072160},2019-05-22,0.0,12.399999999999999,65.72295277943813,4.5
+3785,Albury Airport AWS {station 072160},2019-05-23,0.2,10.7,65.72295277943813,6.5
+3786,Albury Airport AWS {station 072160},2019-05-24,0.2,10.2,65.72295277943813,16.004490057729313
+3787,Albury Airport AWS {station 072160},2019-05-25,0.4,15.75,65.72295277943813,16.004490057729313
+3788,Albury Airport AWS {station 072160},2019-05-26,0.6,11.55,65.72295277943813,16.0
+3789,Albury Airport AWS {station 072160},2019-05-27,10.0,8.7,65.72295277943813,26.0
+3790,Albury Airport AWS {station 072160},2019-05-28,0.0,8.4,65.72295277943813,14.0
+3791,Albury Airport AWS {station 072160},2019-05-29,10.2,9.3,65.72295277943813,26.0
+3792,Albury Airport AWS {station 072160},2019-05-30,1.8,5.55,65.72295277943813,16.004490057729313
+3793,Albury Airport AWS {station 072160},2019-05-31,1.7737061273051755,7.6,65.72295277943813,6.5
+3794,Bendigo Airport {station 081123},2020-06-01,11.0,8.2,82.0,22.0
+3795,Bendigo Airport {station 081123},2020-06-02,0.8,7.85,82.5,14.0
+3796,Bendigo Airport {station 081123},2020-06-03,0.2,10.05,58.0,21.5
+3797,Bendigo Airport {station 081123},2020-06-04,0.2,6.8,71.5,16.004490057729313
+3798,Bendigo Airport {station 081123},2020-06-05,0.0,6.05,79.5,8.0
+3799,Bendigo Airport {station 081123},2020-06-06,0.4,6.45,79.5,16.004490057729313
+3800,Bendigo Airport {station 081123},2020-06-07,0.0,7.1000000000000005,62.0,17.0
+3801,Bendigo Airport {station 081123},2020-06-08,0.0,5.5,76.0,6.5
+3802,Bendigo Airport {station 081123},2020-06-09,0.2,5.8,80.5,8.0
+3803,Bendigo Airport {station 081123},2020-06-10,0.2,8.299999999999999,80.5,6.5
+3804,Bendigo Airport {station 081123},2020-06-11,0.0,7.6,71.5,16.004490057729313
+3805,Bendigo Airport {station 081123},2020-06-12,0.2,6.3500000000000005,78.5,9.0
+3806,Bendigo Airport {station 081123},2020-06-13,0.2,9.5,83.0,17.5
+3807,Bendigo Airport {station 081123},2020-06-14,6.4,10.05,82.5,15.0
+3808,Bendigo Airport {station 081123},2020-06-15,2.8,11.6,89.0,18.0
+3809,Bendigo Airport {station 081123},2020-06-16,0.4,12.9,85.0,18.5
+3810,Bendigo Airport {station 081123},2020-06-17,0.2,8.95,76.0,8.0
+3811,Bendigo Airport {station 081123},2020-06-18,0.2,8.05,84.5,11.0
+3812,Bendigo Airport {station 081123},2020-06-19,0.2,10.3,82.5,18.0
+3813,Bendigo Airport {station 081123},2020-06-20,3.2,12.0,86.5,10.0
+3814,Bendigo Airport {station 081123},2020-06-21,1.0,7.8500000000000005,87.5,8.0
+3815,Bendigo Airport {station 081123},2020-06-22,0.0,7.15,83.0,16.004490057729313
+3816,Bendigo Airport {station 081123},2020-06-23,3.2,10.5,79.5,8.0
+3817,Bendigo Airport {station 081123},2020-06-24,0.0,10.049999999999999,86.0,8.0
+3818,Bendigo Airport {station 081123},2020-06-25,0.6,11.2,83.5,13.0
+3819,Bendigo Airport {station 081123},2020-05-01,4.4,9.05,83.0,22.5
+3820,Bendigo Airport {station 081123},2020-05-02,2.0,10.45,73.0,22.5
+3821,Bendigo Airport {station 081123},2020-05-03,0.4,10.2,67.0,17.5
+3822,Bendigo Airport {station 081123},2020-05-04,0.0,10.75,67.5,10.0
+3823,Bendigo Airport {station 081123},2020-05-05,0.0,10.5,71.0,13.0
+3824,Bendigo Airport {station 081123},2020-05-06,0.2,11.899999999999999,74.0,12.0
+3825,Bendigo Airport {station 081123},2020-05-07,0.0,15.25,64.5,22.5
+3826,Bendigo Airport {station 081123},2020-05-08,0.0,11.25,80.5,13.0
+3827,Bendigo Airport {station 081123},2020-05-09,2.6,10.3,83.0,17.5
+3828,Bendigo Airport {station 081123},2020-05-10,5.2,7.4,74.5,17.0
+3829,Bendigo Airport {station 081123},2020-05-11,0.0,8.05,82.0,16.004490057729313
+3830,Bendigo Airport {station 081123},2020-05-12,0.2,9.25,76.0,13.5
+3831,Bendigo Airport {station 081123},2020-05-13,3.0,9.399999999999999,76.0,9.5
+3832,Bendigo Airport {station 081123},2020-05-14,0.2,7.6,61.0,11.0
+3833,Bendigo Airport {station 081123},2020-05-15,0.2,8.950000000000001,64.0,10.0
+3834,Bendigo Airport {station 081123},2020-05-16,0.0,8.549999999999999,76.5,7.5
+3835,Bendigo Airport {station 081123},2020-05-17,0.4,9.25,69.5,7.0
+3836,Bendigo Airport {station 081123},2020-05-18,0.0,10.15,69.0,12.0
+3837,Bendigo Airport {station 081123},2020-05-19,0.4,10.75,79.0,12.0
+3838,Bendigo Airport {station 081123},2020-05-20,16.0,11.6,70.5,15.5
+3839,Bendigo Airport {station 081123},2020-05-21,14.2,10.25,74.5,16.5
+3840,Bendigo Airport {station 081123},2020-05-22,1.6,9.55,70.0,15.0
+3841,Bendigo Airport {station 081123},2020-05-23,0.2,8.9,79.0,16.004490057729313
+3842,Bendigo Airport {station 081123},2020-05-24,0.0,9.85,66.5,19.5
+3843,Bendigo Airport {station 081123},2020-05-25,0.2,8.5,64.5,17.0
+3844,Bendigo Airport {station 081123},2020-05-26,0.2,9.0,68.0,8.0
+3845,Bendigo Airport {station 081123},2020-05-27,0.0,11.2,75.5,9.0
+3846,Bendigo Airport {station 081123},2020-05-28,0.0,10.0,81.0,12.0
+3847,Bendigo Airport {station 081123},2020-05-29,0.4,8.8,85.5,9.5
+3848,Bendigo Airport {station 081123},2020-05-30,0.2,9.1,75.5,20.5
+3849,Bendigo Airport {station 081123},2020-05-31,0.0,11.35,71.5,14.5
+3850,Bendigo Airport {station 081123},2020-04-01,0.0,17.35,53.0,13.0
+3851,Bendigo Airport {station 081123},2020-04-02,16.4,15.6,94.0,11.5
+3852,Bendigo Airport {station 081123},2020-04-03,2.8,16.4,82.5,15.5
+3853,Bendigo Airport {station 081123},2020-04-04,47.2,13.8,71.5,29.5
+3854,Bendigo Airport {station 081123},2020-04-05,3.4,11.85,82.5,27.0
+3855,Bendigo Airport {station 081123},2020-04-06,3.2,11.45,62.5,13.0
+3856,Bendigo Airport {station 081123},2020-04-07,0.2,11.5,67.0,14.0
+3857,Bendigo Airport {station 081123},2020-04-08,0.0,13.6,61.0,26.0
+3858,Bendigo Airport {station 081123},2020-04-09,0.0,16.55,52.0,16.0
+3859,Bendigo Airport {station 081123},2020-04-10,3.2,16.6,80.0,12.0
+3860,Bendigo Airport {station 081123},2020-04-11,0.2,13.85,64.5,30.5
+3861,Bendigo Airport {station 081123},2020-04-12,0.0,13.100000000000001,58.5,16.0
+3862,Bendigo Airport {station 081123},2020-04-13,0.0,12.75,62.0,10.0
+3863,Bendigo Airport {station 081123},2020-04-14,0.0,14.15,60.0,10.0
+3864,Bendigo Airport {station 081123},2020-04-15,0.0,16.3,53.5,15.0
+3865,Bendigo Airport {station 081123},2020-04-16,0.0,17.65,53.5,14.0
+3866,Bendigo Airport {station 081123},2020-04-17,0.0,11.549999999999999,63.5,13.0
+3867,Bendigo Airport {station 081123},2020-04-18,0.0,11.600000000000001,61.0,10.0
+3868,Bendigo Airport {station 081123},2020-04-19,0.0,11.15,59.5,10.0
+3869,Bendigo Airport {station 081123},2020-04-20,0.4,16.200000000000003,50.5,19.5
+3870,Bendigo Airport {station 081123},2020-04-21,0.0,11.4,54.5,16.004490057729313
+3871,Bendigo Airport {station 081123},2020-04-22,0.0,12.850000000000001,63.5,4.0
+3872,Bendigo Airport {station 081123},2020-04-23,0.0,12.950000000000001,62.5,12.0
+3873,Bendigo Airport {station 081123},2020-04-24,0.6,15.5,72.5,7.5
+3874,Bendigo Airport {station 081123},2020-04-25,0.0,12.700000000000001,71.0,10.5
+3875,Bendigo Airport {station 081123},2020-04-26,24.2,15.1,78.5,15.5
+3876,Bendigo Airport {station 081123},2020-04-27,0.6,9.35,75.5,16.004490057729313
+3877,Bendigo Airport {station 081123},2020-04-28,0.2,10.399999999999999,74.0,14.0
+3878,Bendigo Airport {station 081123},2020-04-29,6.6,13.55,92.5,19.0
+3879,Bendigo Airport {station 081123},2020-04-30,24.4,9.2,82.0,12.0
+3880,Bendigo Airport {station 081123},2020-03-01,0.0,22.55,41.0,17.5
+3881,Bendigo Airport {station 081123},2020-03-02,0.0,18.2,50.5,23.0
+3882,Bendigo Airport {station 081123},2020-03-03,0.0,18.5,43.0,19.5
+3883,Bendigo Airport {station 081123},2020-03-04,0.0,17.35,75.5,10.0
+3884,Bendigo Airport {station 081123},2020-03-05,42.8,19.05,87.0,12.0
+3885,Bendigo Airport {station 081123},2020-03-06,0.2,18.35,58.5,18.5
+3886,Bendigo Airport {station 081123},2020-03-07,0.0,17.8,53.0,22.5
+3887,Bendigo Airport {station 081123},2020-03-08,0.0,18.45,59.0,19.0
+3888,Bendigo Airport {station 081123},2020-03-09,0.0,18.25,52.5,19.5
+3889,Bendigo Airport {station 081123},2020-03-10,0.0,19.55,52.0,12.0
+3890,Bendigo Airport {station 081123},2020-03-11,0.0,22.85,43.5,14.0
+3891,Bendigo Airport {station 081123},2020-03-12,0.0,21.1,41.0,14.0
+3892,Bendigo Airport {station 081123},2020-03-13,0.0,21.05,49.5,12.0
+3893,Bendigo Airport {station 081123},2020-03-14,0.0,14.5,47.5,34.0
+3894,Bendigo Airport {station 081123},2020-03-15,0.0,15.15,55.5,25.0
+3895,Bendigo Airport {station 081123},2020-03-16,0.0,17.6,49.0,11.0
+3896,Bendigo Airport {station 081123},2020-03-17,0.0,19.25,46.5,14.0
+3897,Bendigo Airport {station 081123},2020-03-18,0.0,22.200000000000003,39.5,13.5
+3898,Bendigo Airport {station 081123},2020-03-19,0.0,26.349999999999998,36.0,18.0
+3899,Bendigo Airport {station 081123},2020-03-20,0.0,16.7,60.5,16.5
+3900,Bendigo Airport {station 081123},2020-03-21,0.0,16.75,49.5,12.0
+3901,Bendigo Airport {station 081123},2020-03-22,0.0,15.149999999999999,53.5,20.5
+3902,Bendigo Airport {station 081123},2020-03-23,0.0,14.850000000000001,51.5,19.5
+3903,Bendigo Airport {station 081123},2020-03-24,0.0,15.7,49.5,14.5
+3904,Bendigo Airport {station 081123},2020-03-25,0.0,14.35,51.5,19.5
+3905,Bendigo Airport {station 081123},2020-03-26,0.0,17.85,51.0,17.5
+3906,Bendigo Airport {station 081123},2020-03-27,0.0,19.7,50.5,13.0
+3907,Bendigo Airport {station 081123},2020-03-28,0.0,20.6,47.0,18.5
+3908,Bendigo Airport {station 081123},2020-03-29,0.0,20.9,66.0,20.5
+3909,Bendigo Airport {station 081123},2020-03-30,3.8,16.9,69.5,13.0
+3910,Bendigo Airport {station 081123},2020-03-31,0.2,15.95,64.0,9.5
+3911,Bendigo Airport {station 081123},2020-02-01,0.0,29.45,62.0,19.5
+3912,Bendigo Airport {station 081123},2020-02-02,9.2,19.85,54.0,18.5
+3913,Bendigo Airport {station 081123},2020-02-03,0.0,15.65,44.5,24.0
+3914,Bendigo Airport {station 081123},2020-02-04,0.0,16.2,36.0,24.0
+3915,Bendigo Airport {station 081123},2020-02-05,0.0,20.2,42.0,18.5
+3916,Bendigo Airport {station 081123},2020-02-06,0.0,23.55,47.0,10.0
+3917,Bendigo Airport {station 081123},2020-02-07,3.0,24.55,49.5,17.5
+3918,Bendigo Airport {station 081123},2020-02-08,0.0,24.700000000000003,48.0,19.5
+3919,Bendigo Airport {station 081123},2020-02-09,0.0,24.3,47.0,15.0
+3920,Bendigo Airport {station 081123},2020-02-10,1.2,20.45,72.0,18.0
+3921,Bendigo Airport {station 081123},2020-02-11,0.4,23.85,55.5,16.004490057729313
+3922,Bendigo Airport {station 081123},2020-02-12,0.2,24.65,54.5,26.0
+3923,Bendigo Airport {station 081123},2020-02-13,0.0,26.700000000000003,47.5,12.0
+3924,Bendigo Airport {station 081123},2020-02-14,0.0,27.549999999999997,72.5,13.0
+3925,Bendigo Airport {station 081123},2020-02-15,3.6,23.0,64.5,20.5
+3926,Bendigo Airport {station 081123},2020-02-16,0.0,23.8,55.5,15.5
+3927,Bendigo Airport {station 081123},2020-02-17,0.0,24.9,46.5,11.0
+3928,Bendigo Airport {station 081123},2020-02-18,0.0,23.200000000000003,58.0,13.5
+3929,Bendigo Airport {station 081123},2020-02-19,0.4,17.95,51.0,26.0
+3930,Bendigo Airport {station 081123},2020-02-20,0.0,17.6,47.5,18.0
+3931,Bendigo Airport {station 081123},2020-02-21,0.0,17.75,51.5,26.0
+3932,Bendigo Airport {station 081123},2020-02-22,0.0,19.5,40.5,16.0
+3933,Bendigo Airport {station 081123},2020-02-23,0.0,24.4,41.0,16.5
+3934,Bendigo Airport {station 081123},2020-02-24,0.0,26.45,43.5,16.0
+3935,Bendigo Airport {station 081123},2020-02-25,0.0,27.5,38.5,17.5
+3936,Bendigo Airport {station 081123},2020-02-26,1.6,18.1,53.0,18.5
+3937,Bendigo Airport {station 081123},2020-02-27,0.0,14.2,45.0,16.5
+3938,Bendigo Airport {station 081123},2020-02-28,0.2,17.35,63.0,16.5
+3939,Bendigo Airport {station 081123},2020-02-29,0.2,19.3,56.0,5.5
+3940,Bendigo Airport {station 081123},2020-01-01,0.2,20.7,26.5,19.5
+3941,Bendigo Airport {station 081123},2020-01-02,0.0,23.05,29.0,12.0
+3942,Bendigo Airport {station 081123},2020-01-03,0.0,25.4,26.0,12.0
+3943,Bendigo Airport {station 081123},2020-01-04,0.0,26.349999999999998,29.0,22.0
+3944,Bendigo Airport {station 081123},2020-01-05,0.0,14.3,71.0,25.0
+3945,Bendigo Airport {station 081123},2020-01-06,5.6,17.15,78.5,9.0
+3946,Bendigo Airport {station 081123},2020-01-07,1.6,20.4,51.5,14.0
+3947,Bendigo Airport {station 081123},2020-01-08,0.0,23.549999999999997,38.5,22.0
+3948,Bendigo Airport {station 081123},2020-01-09,0.0,25.25,41.0,15.0
+3949,Bendigo Airport {station 081123},2020-01-10,0.0,25.9,40.5,17.5
+3950,Bendigo Airport {station 081123},2020-01-11,2.6,17.85,46.0,19.5
+3951,Bendigo Airport {station 081123},2020-01-12,0.0,19.4,41.5,23.0
+3952,Bendigo Airport {station 081123},2020-01-13,0.0,22.65,40.5,15.0
+3953,Bendigo Airport {station 081123},2020-01-14,0.0,27.4,26.0,12.0
+3954,Bendigo Airport {station 081123},2020-01-15,0.0,28.75,31.0,19.5
+3955,Bendigo Airport {station 081123},2020-01-16,7.8,20.0,58.0,23.5
+3956,Bendigo Airport {station 081123},2020-01-17,0.0,18.950000000000003,46.5,21.5
+3957,Bendigo Airport {station 081123},2020-01-18,0.0,22.45,43.5,12.0
+3958,Bendigo Airport {station 081123},2020-01-19,0.0,23.400000000000002,31.0,12.0
+3959,Bendigo Airport {station 081123},2020-01-20,0.0,20.799999999999997,72.5,10.0
+3960,Bendigo Airport {station 081123},2020-01-21,29.0,18.9,50.0,12.0
+3961,Bendigo Airport {station 081123},2020-01-22,0.0,22.2,44.0,23.0
+3962,Bendigo Airport {station 081123},2020-01-23,2.4,18.05,70.0,17.5
+3963,Bendigo Airport {station 081123},2020-01-24,0.6,16.1,52.0,14.0
+3964,Bendigo Airport {station 081123},2020-01-25,0.0,19.35,39.5,7.5
+3965,Bendigo Airport {station 081123},2020-01-26,0.0,22.849999999999998,39.5,14.5
+3966,Bendigo Airport {station 081123},2020-01-27,0.0,22.15,43.5,13.5
+3967,Bendigo Airport {station 081123},2020-01-28,0.0,22.4,35.5,15.0
+3968,Bendigo Airport {station 081123},2020-01-29,0.0,24.5,31.0,10.0
+3969,Bendigo Airport {station 081123},2020-01-30,0.0,26.849999999999998,14.5,13.0
+3970,Bendigo Airport {station 081123},2020-01-31,0.0,32.35,21.0,16.5
+3971,Bendigo Airport {station 081123},2019-12-01,0.6,11.3,92.0,18.5
+3972,Bendigo Airport {station 081123},2019-12-02,2.8,12.6,51.0,34.0
+3973,Bendigo Airport {station 081123},2019-12-03,0.4,15.45,48.5,24.0
+3974,Bendigo Airport {station 081123},2019-12-04,0.0,17.9,37.0,22.5
+3975,Bendigo Airport {station 081123},2019-12-05,0.0,17.8,47.0,20.5
+3976,Bendigo Airport {station 081123},2019-12-06,0.0,17.4,44.5,20.5
+3977,Bendigo Airport {station 081123},2019-12-07,0.0,16.45,40.0,13.5
+3978,Bendigo Airport {station 081123},2019-12-08,0.0,20.8,34.0,9.0
+3979,Bendigo Airport {station 081123},2019-12-09,0.0,26.950000000000003,15.5,15.0
+3980,Bendigo Airport {station 081123},2019-12-10,0.0,20.85,46.0,25.0
+3981,Bendigo Airport {station 081123},2019-12-11,0.0,18.549999999999997,37.5,23.0
+3982,Bendigo Airport {station 081123},2019-12-12,0.0,16.6,44.0,23.0
+3983,Bendigo Airport {station 081123},2019-12-13,0.0,17.0,40.0,16.0
+3984,Bendigo Airport {station 081123},2019-12-14,0.0,18.5,48.5,16.5
+3985,Bendigo Airport {station 081123},2019-12-15,0.0,19.55,50.0,12.0
+3986,Bendigo Airport {station 081123},2019-12-16,0.0,21.15,37.5,16.0
+3987,Bendigo Airport {station 081123},2019-12-17,0.0,23.75,29.5,13.0
+3988,Bendigo Airport {station 081123},2019-12-18,0.0,28.25,19.0,14.0
+3989,Bendigo Airport {station 081123},2019-12-19,0.0,30.65,17.0,12.0
+3990,Bendigo Airport {station 081123},2019-12-20,0.0,31.799999999999997,12.5,22.0
+3991,Bendigo Airport {station 081123},2019-12-21,0.0,26.1,36.0,28.0
+3992,Bendigo Airport {station 081123},2019-12-22,0.0,19.85,29.5,23.0
+3993,Bendigo Airport {station 081123},2019-12-23,0.0,20.9,34.5,13.0
+3994,Bendigo Airport {station 081123},2019-12-24,0.0,23.7,24.0,19.5
+3995,Bendigo Airport {station 081123},2019-12-25,0.0,25.65,22.0,13.0
+3996,Bendigo Airport {station 081123},2019-12-26,0.0,25.05,28.5,17.5
+3997,Bendigo Airport {station 081123},2019-12-27,0.0,26.0,19.0,15.5
+3998,Bendigo Airport {station 081123},2019-12-28,0.0,28.85,20.0,12.0
+3999,Bendigo Airport {station 081123},2019-12-29,0.0,31.150000000000002,20.0,10.0
+4000,Bendigo Airport {station 081123},2019-12-30,0.0,32.0,18.5,22.0
+4001,Bendigo Airport {station 081123},2019-12-31,0.0,21.6,36.5,19.5
+4002,Bendigo Airport {station 081123},2019-11-01,0.0,24.2,26.0,28.5
+4003,Bendigo Airport {station 081123},2019-11-02,5.4,16.1,94.0,14.0
+4004,Bendigo Airport {station 081123},2019-11-03,13.8,18.15,70.5,10.0
+4005,Bendigo Airport {station 081123},2019-11-04,0.2,11.25,61.5,17.5
+4006,Bendigo Airport {station 081123},2019-11-05,10.8,11.35,55.5,15.0
+4007,Bendigo Airport {station 081123},2019-11-06,0.2,16.0,50.0,26.5
+4008,Bendigo Airport {station 081123},2019-11-07,0.0,14.05,57.5,31.5
+4009,Bendigo Airport {station 081123},2019-11-08,0.0,13.35,66.5,27.0
+4010,Bendigo Airport {station 081123},2019-11-09,2.4,10.5,57.0,18.5
+4011,Bendigo Airport {station 081123},2019-11-10,0.0,15.45,55.0,14.5
+4012,Bendigo Airport {station 081123},2019-11-11,0.0,17.6,38.5,17.5
+4013,Bendigo Airport {station 081123},2019-11-12,0.0,15.45,45.0,30.5
+4014,Bendigo Airport {station 081123},2019-11-13,0.0,12.600000000000001,42.0,18.5
+4015,Bendigo Airport {station 081123},2019-11-14,0.6,16.299999999999997,57.5,17.5
+4016,Bendigo Airport {station 081123},2019-11-15,0.0,14.45,54.5,17.5
+4017,Bendigo Airport {station 081123},2019-11-16,0.0,12.7,45.0,18.5
+4018,Bendigo Airport {station 081123},2019-11-17,0.0,13.8,48.5,15.0
+4019,Bendigo Airport {station 081123},2019-11-18,0.0,17.150000000000002,36.0,14.0
+4020,Bendigo Airport {station 081123},2019-11-19,0.0,18.85,27.5,12.0
+4021,Bendigo Airport {station 081123},2019-11-20,0.0,22.099999999999998,28.0,14.0
+4022,Bendigo Airport {station 081123},2019-11-21,0.0,30.0,13.5,25.0
+4023,Bendigo Airport {station 081123},2019-11-22,0.0,17.950000000000003,36.5,20.5
+4024,Bendigo Airport {station 081123},2019-11-23,0.0,17.05,39.5,13.0
+4025,Bendigo Airport {station 081123},2019-11-24,0.0,18.25,31.0,13.0
+4026,Bendigo Airport {station 081123},2019-11-25,0.0,19.05,21.5,12.0
+4027,Bendigo Airport {station 081123},2019-11-26,0.0,14.75,57.0,29.5
+4028,Bendigo Airport {station 081123},2019-11-27,1.2,14.3,33.0,14.5
+4029,Bendigo Airport {station 081123},2019-11-28,0.0,18.55,27.0,19.5
+4030,Bendigo Airport {station 081123},2019-11-29,0.0,20.85,31.5,16.5
+4031,Bendigo Airport {station 081123},2019-11-30,4.0,15.600000000000001,42.0,14.0
+4032,Bendigo Airport {station 081123},2019-10-01,0.0,12.3,41.5,8.5
+4033,Bendigo Airport {station 081123},2019-10-02,0.0,15.850000000000001,33.5,14.5
+4034,Bendigo Airport {station 081123},2019-10-03,0.0,18.75,27.5,17.0
+4035,Bendigo Airport {station 081123},2019-10-04,0.0,13.799999999999999,55.0,9.5
+4036,Bendigo Airport {station 081123},2019-10-05,0.0,15.55,52.0,15.0
+4037,Bendigo Airport {station 081123},2019-10-06,0.0,18.700000000000003,47.0,22.5
+4038,Bendigo Airport {station 081123},2019-10-07,0.0,14.149999999999999,59.5,15.0
+4039,Bendigo Airport {station 081123},2019-10-08,0.0,11.15,62.5,24.0
+4040,Bendigo Airport {station 081123},2019-10-09,0.6,9.35,62.0,14.0
+4041,Bendigo Airport {station 081123},2019-10-10,0.0,11.85,56.5,17.0
+4042,Bendigo Airport {station 081123},2019-10-11,0.0,13.55,50.0,14.5
+4043,Bendigo Airport {station 081123},2019-10-12,0.0,14.3,51.5,21.5
+4044,Bendigo Airport {station 081123},2019-10-13,0.0,16.1,49.5,16.5
+4045,Bendigo Airport {station 081123},2019-10-14,0.4,19.3,54.5,13.0
+4046,Bendigo Airport {station 081123},2019-10-15,0.0,17.15,46.5,15.0
+4047,Bendigo Airport {station 081123},2019-10-16,2.4,14.7,87.5,10.0
+4048,Bendigo Airport {station 081123},2019-10-17,6.2,11.95,62.5,26.5
+4049,Bendigo Airport {station 081123},2019-10-18,0.8,11.399999999999999,52.5,21.0
+4050,Bendigo Airport {station 081123},2019-10-19,0.0,11.600000000000001,53.0,18.5
+4051,Bendigo Airport {station 081123},2019-10-20,0.0,10.5,55.5,14.0
+4052,Bendigo Airport {station 081123},2019-10-21,0.0,14.450000000000001,49.5,13.0
+4053,Bendigo Airport {station 081123},2019-10-22,0.0,16.3,30.0,9.0
+4054,Bendigo Airport {station 081123},2019-10-23,0.0,18.1,23.0,9.5
+4055,Bendigo Airport {station 081123},2019-10-24,0.0,22.9,19.5,19.5
+4056,Bendigo Airport {station 081123},2019-10-25,0.0,19.85,42.0,24.0
+4057,Bendigo Airport {station 081123},2019-10-26,0.0,12.8,68.0,27.0
+4058,Bendigo Airport {station 081123},2019-10-27,0.4,10.9,54.0,14.0
+4059,Bendigo Airport {station 081123},2019-10-28,0.0,13.4,43.5,8.0
+4060,Bendigo Airport {station 081123},2019-10-29,0.0,17.2,20.0,15.5
+4061,Bendigo Airport {station 081123},2019-10-30,0.0,22.15,18.5,9.0
+4062,Bendigo Airport {station 081123},2019-10-31,0.0,23.349999999999998,27.5,20.5
+4063,Bendigo Airport {station 081123},2019-09-01,0.0,12.799999999999999,75.0,16.5
+4064,Bendigo Airport {station 081123},2019-09-02,2.0,9.45,67.0,12.0
+4065,Bendigo Airport {station 081123},2019-09-03,1.0,13.850000000000001,60.5,12.0
+4066,Bendigo Airport {station 081123},2019-09-04,0.0,9.2,81.0,6.5
+4067,Bendigo Airport {station 081123},2019-09-05,0.0,11.15,68.0,11.0
+4068,Bendigo Airport {station 081123},2019-09-06,3.2,10.0,72.0,20.5
+4069,Bendigo Airport {station 081123},2019-09-07,3.0,9.5,66.0,22.5
+4070,Bendigo Airport {station 081123},2019-09-08,1.4,9.35,87.0,17.0
+4071,Bendigo Airport {station 081123},2019-09-09,6.0,9.5,55.0,27.0
+4072,Bendigo Airport {station 081123},2019-09-10,0.0,7.8500000000000005,66.0,14.0
+4073,Bendigo Airport {station 081123},2019-09-11,0.0,8.45,61.0,9.5
+4074,Bendigo Airport {station 081123},2019-09-12,0.0,11.450000000000001,50.5,18.5
+4075,Bendigo Airport {station 081123},2019-09-13,0.0,9.700000000000001,57.5,14.0
+4076,Bendigo Airport {station 081123},2019-09-14,0.0,10.1,55.0,10.0
+4077,Bendigo Airport {station 081123},2019-09-15,0.2,14.35,57.0,10.0
+4078,Bendigo Airport {station 081123},2019-09-16,9.2,10.0,67.0,13.0
+4079,Bendigo Airport {station 081123},2019-09-17,0.0,7.7,48.0,21.5
+4080,Bendigo Airport {station 081123},2019-09-18,0.0,8.899999999999999,54.5,11.0
+4081,Bendigo Airport {station 081123},2019-09-19,0.0,13.2,58.5,24.0
+4082,Bendigo Airport {station 081123},2019-09-20,0.0,19.6,50.0,24.0
+4083,Bendigo Airport {station 081123},2019-09-21,0.0,14.100000000000001,67.5,18.5
+4084,Bendigo Airport {station 081123},2019-09-22,1.4,7.55,63.5,14.0
+4085,Bendigo Airport {station 081123},2019-09-23,4.0,9.65,69.0,15.0
+4086,Bendigo Airport {station 081123},2019-09-24,0.2,6.75,61.5,12.0
+4087,Bendigo Airport {station 081123},2019-09-25,0.0,9.55,61.5,9.5
+4088,Bendigo Airport {station 081123},2019-09-26,0.0,10.15,51.0,8.5
+4089,Bendigo Airport {station 081123},2019-09-27,0.0,12.35,55.5,24.0
+4090,Bendigo Airport {station 081123},2019-09-28,0.0,9.0,54.5,10.0
+4091,Bendigo Airport {station 081123},2019-09-29,0.0,8.55,59.5,18.5
+4092,Bendigo Airport {station 081123},2019-09-30,0.0,8.3,52.0,24.0
+4093,Bendigo Airport {station 081123},2019-08-01,0.2,5.65,72.0,8.0
+4094,Bendigo Airport {station 081123},2019-08-02,0.0,8.9,71.0,10.5
+4095,Bendigo Airport {station 081123},2019-08-03,0.0,8.05,71.0,12.0
+4096,Bendigo Airport {station 081123},2019-08-04,0.0,6.7,80.5,8.0
+4097,Bendigo Airport {station 081123},2019-08-05,0.0,8.5,73.5,16.004490057729313
+4098,Bendigo Airport {station 081123},2019-08-06,0.0,7.6499999999999995,70.0,14.5
+4099,Bendigo Airport {station 081123},2019-08-07,0.0,9.25,75.5,9.0
+4100,Bendigo Airport {station 081123},2019-08-08,7.4,7.2,91.5,19.5
+4101,Bendigo Airport {station 081123},2019-08-09,5.4,8.05,68.0,27.0
+4102,Bendigo Airport {station 081123},2019-08-10,1.4,6.0,80.0,22.5
+4103,Bendigo Airport {station 081123},2019-08-11,6.2,7.3,76.0,18.0
+4104,Bendigo Airport {station 081123},2019-08-12,1.6,8.3,65.0,10.0
+4105,Bendigo Airport {station 081123},2019-08-13,0.0,8.5,78.5,12.0
+4106,Bendigo Airport {station 081123},2019-08-14,0.0,8.75,75.5,11.0
+4107,Bendigo Airport {station 081123},2019-08-15,0.0,7.75,61.5,13.0
+4108,Bendigo Airport {station 081123},2019-08-16,0.0,10.6,77.5,16.004490057729313
+4109,Bendigo Airport {station 081123},2019-08-17,0.6,6.6000000000000005,76.5,11.0
+4110,Bendigo Airport {station 081123},2019-08-18,0.0,8.8,81.0,18.0
+4111,Bendigo Airport {station 081123},2019-08-19,6.8,6.35,73.0,18.5
+4112,Bendigo Airport {station 081123},2019-08-20,0.4,7.85,82.0,20.5
+4113,Bendigo Airport {station 081123},2019-08-21,0.2,11.05,74.0,13.0
+4114,Bendigo Airport {station 081123},2019-08-22,3.0,11.5,56.5,24.0
+4115,Bendigo Airport {station 081123},2019-08-23,0.0,5.8,68.5,16.004490057729313
+4116,Bendigo Airport {station 081123},2019-08-24,0.2,8.8,55.0,16.5
+4117,Bendigo Airport {station 081123},2019-08-25,0.0,7.9,64.0,14.0
+4118,Bendigo Airport {station 081123},2019-08-26,0.0,6.85,56.5,12.0
+4119,Bendigo Airport {station 081123},2019-08-27,0.0,7.4,66.5,10.5
+4120,Bendigo Airport {station 081123},2019-08-28,0.0,14.049464604402143,65.72295277943813,16.004490057729313
+4121,Bendigo Airport {station 081123},2019-08-29,1.7737061273051755,14.049464604402143,65.72295277943813,16.004490057729313
+4122,Bendigo Airport {station 081123},2019-08-30,1.7737061273051755,9.3,53.0,9.0
+4123,Bendigo Airport {station 081123},2019-08-31,0.0,8.75,57.5,18.5
+4124,Bendigo Airport {station 081123},2019-07-01,0.4,8.0,72.0,17.5
+4125,Bendigo Airport {station 081123},2019-07-02,0.0,6.6499999999999995,86.5,8.5
+4126,Bendigo Airport {station 081123},2019-07-03,0.2,7.6499999999999995,83.5,8.5
+4127,Bendigo Airport {station 081123},2019-07-04,0.2,10.75,68.5,17.0
+4128,Bendigo Airport {station 081123},2019-07-05,0.0,10.4,65.5,14.0
+4129,Bendigo Airport {station 081123},2019-07-06,0.2,11.05,72.0,14.0
+4130,Bendigo Airport {station 081123},2019-07-07,0.0,11.1,89.0,10.0
+4131,Bendigo Airport {station 081123},2019-07-08,9.6,11.6,80.0,12.0
+4132,Bendigo Airport {station 081123},2019-07-09,0.2,9.1,87.5,12.0
+4133,Bendigo Airport {station 081123},2019-07-10,0.4,9.1,76.5,21.5
+4134,Bendigo Airport {station 081123},2019-07-11,5.4,8.65,96.0,20.5
+4135,Bendigo Airport {station 081123},2019-07-12,3.2,10.05,91.5,22.0
+4136,Bendigo Airport {station 081123},2019-07-13,2.0,6.3999999999999995,75.0,20.5
+4137,Bendigo Airport {station 081123},2019-07-14,0.8,5.9,83.0,19.5
+4138,Bendigo Airport {station 081123},2019-07-15,0.0,8.75,78.5,15.0
+4139,Bendigo Airport {station 081123},2019-07-16,0.0,14.049464604402143,76.0,20.0
+4140,Bendigo Airport {station 081123},2019-07-17,0.2,9.2,87.5,18.5
+4141,Bendigo Airport {station 081123},2019-07-18,1.0,7.2,75.0,13.5
+4142,Bendigo Airport {station 081123},2019-07-19,0.6,10.5,80.5,3.0
+4143,Bendigo Airport {station 081123},2019-07-20,0.2,10.1,80.5,19.5
+4144,Bendigo Airport {station 081123},2019-07-21,0.0,10.9,60.5,10.5
+4145,Bendigo Airport {station 081123},2019-07-22,0.0,6.95,77.5,16.0
+4146,Bendigo Airport {station 081123},2019-07-23,0.2,8.8,78.0,25.0
+4147,Bendigo Airport {station 081123},2019-07-24,1.4,6.25,83.5,10.0
+4148,Bendigo Airport {station 081123},2019-07-25,0.4,8.5,88.0,16.004490057729313
+4149,Bendigo Airport {station 081123},2019-07-26,0.0,8.8,86.0,7.5
+4150,Bendigo Airport {station 081123},2019-07-27,2.8,10.25,90.0,8.0
+4151,Bendigo Airport {station 081123},2019-07-28,0.2,7.05,83.5,16.004490057729313
+4152,Bendigo Airport {station 081123},2019-07-29,5.0,10.25,81.5,10.0
+4153,Bendigo Airport {station 081123},2019-07-30,0.2,6.3999999999999995,72.5,15.5
+4154,Bendigo Airport {station 081123},2019-07-31,0.0,8.8,66.5,11.5
+4155,Bendigo Airport {station 081123},2019-06-01,0.0,13.0,65.5,18.5
+4156,Bendigo Airport {station 081123},2019-06-02,0.2,7.1499999999999995,89.0,16.004490057729313
+4157,Bendigo Airport {station 081123},2019-06-03,5.4,8.85,74.0,26.0
+4158,Bendigo Airport {station 081123},2019-06-04,0.0,7.800000000000001,61.0,22.0
+4159,Bendigo Airport {station 081123},2019-06-05,0.2,6.8,70.0,14.0
+4160,Bendigo Airport {station 081123},2019-06-06,0.0,10.7,77.5,11.0
+4161,Bendigo Airport {station 081123},2019-06-07,0.0,9.1,75.0,13.0
+4162,Bendigo Airport {station 081123},2019-06-08,0.2,9.85,71.5,12.0
+4163,Bendigo Airport {station 081123},2019-06-09,0.2,8.75,84.5,10.0
+4164,Bendigo Airport {station 081123},2019-06-10,2.8,11.350000000000001,75.5,17.5
+4165,Bendigo Airport {station 081123},2019-06-11,0.2,9.55,79.0,13.5
+4166,Bendigo Airport {station 081123},2019-06-12,5.2,10.75,96.5,12.0
+4167,Bendigo Airport {station 081123},2019-06-13,14.6,11.35,86.0,11.0
+4168,Bendigo Airport {station 081123},2019-06-14,1.2,10.95,88.0,13.0
+4169,Bendigo Airport {station 081123},2019-06-15,1.2,8.75,82.5,8.5
+4170,Bendigo Airport {station 081123},2019-06-16,0.0,10.3,91.0,9.0
+4171,Bendigo Airport {station 081123},2019-06-17,0.2,7.4,87.5,16.004490057729313
+4172,Bendigo Airport {station 081123},2019-06-18,0.6,8.55,85.5,15.5
+4173,Bendigo Airport {station 081123},2019-06-19,0.4,6.15,79.0,9.0
+4174,Bendigo Airport {station 081123},2019-06-20,0.4,6.449999999999999,89.0,11.0
+4175,Bendigo Airport {station 081123},2019-06-21,1.6,5.75,76.5,11.0
+4176,Bendigo Airport {station 081123},2019-06-22,0.0,4.6,84.5,10.0
+4177,Bendigo Airport {station 081123},2019-06-23,0.4,6.550000000000001,67.5,11.0
+4178,Bendigo Airport {station 081123},2019-06-24,0.2,6.45,65.5,7.5
+4179,Bendigo Airport {station 081123},2019-06-25,0.0,8.05,64.5,8.5
+4180,Bendigo Airport {station 081123},2019-06-26,0.2,8.6,70.5,13.0
+4181,Bendigo Airport {station 081123},2019-06-27,0.2,8.65,73.0,16.0
+4182,Bendigo Airport {station 081123},2019-06-28,0.2,9.3,77.0,13.0
+4183,Bendigo Airport {station 081123},2019-06-29,13.8,10.850000000000001,94.0,21.5
+4184,Bendigo Airport {station 081123},2019-06-30,20.0,7.55,88.0,14.0
+4185,Bendigo Airport {station 081123},2019-05-01,9.2,16.950000000000003,84.0,26.5
+4186,Bendigo Airport {station 081123},2019-05-02,14.4,15.1,89.5,17.0
+4187,Bendigo Airport {station 081123},2019-05-03,0.6,13.0,73.0,16.004490057729313
+4188,Bendigo Airport {station 081123},2019-05-04,0.0,12.149999999999999,64.5,16.5
+4189,Bendigo Airport {station 081123},2019-05-05,0.0,11.4,62.0,16.5
+4190,Bendigo Airport {station 081123},2019-05-06,0.0,12.7,58.5,15.0
+4191,Bendigo Airport {station 081123},2019-05-07,0.0,10.45,65.0,16.5
+4192,Bendigo Airport {station 081123},2019-05-08,2.2,12.65,72.5,18.0
+4193,Bendigo Airport {station 081123},2019-05-09,0.0,9.95,57.5,23.5
+4194,Bendigo Airport {station 081123},2019-05-10,13.4,10.25,94.0,15.0
+4195,Bendigo Airport {station 081123},2019-05-11,4.8,9.55,81.0,14.0
+4196,Bendigo Airport {station 081123},2019-05-12,0.0,10.05,83.0,16.004490057729313
+4197,Bendigo Airport {station 081123},2019-05-13,0.0,11.8,71.5,15.0
+4198,Bendigo Airport {station 081123},2019-05-14,0.0,10.75,80.5,7.5
+4199,Bendigo Airport {station 081123},2019-05-15,0.0,11.8,76.0,14.0
+4200,Bendigo Airport {station 081123},2019-05-16,0.2,10.25,68.0,7.5
+4201,Bendigo Airport {station 081123},2019-05-17,0.2,11.1,74.5,7.5
+4202,Bendigo Airport {station 081123},2019-05-18,0.0,13.3,56.5,7.0
+4203,Bendigo Airport {station 081123},2019-05-19,0.0,14.0,66.5,13.0
+4204,Bendigo Airport {station 081123},2019-05-20,0.6,14.15,83.5,10.0
+4205,Bendigo Airport {station 081123},2019-05-21,3.0,10.799999999999999,84.0,16.004490057729313
+4206,Bendigo Airport {station 081123},2019-05-22,0.2,11.6,76.5,11.0
+4207,Bendigo Airport {station 081123},2019-05-23,0.0,11.75,78.0,16.004490057729313
+4208,Bendigo Airport {station 081123},2019-05-24,0.0,12.399999999999999,70.0,12.0
+4209,Bendigo Airport {station 081123},2019-05-25,0.6,12.45,79.0,13.0
+4210,Bendigo Airport {station 081123},2019-05-26,5.4,9.75,84.0,15.5
+4211,Bendigo Airport {station 081123},2019-05-27,7.8,8.55,69.0,26.5
+4212,Bendigo Airport {station 081123},2019-05-28,1.8,8.55,93.5,22.5
+4213,Bendigo Airport {station 081123},2019-05-29,4.2,8.55,73.0,26.0
+4214,Bendigo Airport {station 081123},2019-05-30,0.2,6.3500000000000005,79.5,16.0
+4215,Bendigo Airport {station 081123},2019-05-31,0.0,10.149999999999999,76.0,16.0
