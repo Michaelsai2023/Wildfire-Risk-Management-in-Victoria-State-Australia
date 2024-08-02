@@ -24,9 +24,9 @@
 ### Machine Learning Predictions:
 - Model Selection: Utilized Random Forest and XGBoost for predicting wildfire occurrences.
 - Model Performance: Random Forest outperformed XGBoost in predicting brightness, confidence, and fire radiative power, with higher R-squared values and lower MAE and MSE.
-
-<img width="997" alt="Screen Shot 2024-08-02 at 22 55 11" src="https://github.com/user-attachments/assets/2a3c4e5d-2868-49ea-a04c-3c259bb5908e">
+  
 <img width="995" alt="Screen Shot 2024-08-02 at 22 55 23" src="https://github.com/user-attachments/assets/0b3c6e6d-3f25-4b4b-907c-731496964d54">
+<img width="997" alt="Screen Shot 2024-08-02 at 22 55 11" src="https://github.com/user-attachments/assets/2a3c4e5d-2868-49ea-a04c-3c259bb5908e">
 
 
 ### Risk Management Strategies:
