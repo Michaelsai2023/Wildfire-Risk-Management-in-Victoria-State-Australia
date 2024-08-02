@@ -6,11 +6,6 @@
 - Analysis Methods: Spatial analysis, time series analysis, machine learning, and catastrophe modeling.
 - Metrics: Wildfire occurrences, weather conditions, fire risk zones, and prediction accuracy.
 
-<img width="920" alt="Screen Shot 2024-08-02 at 22 54 25" src="https://github.com/user-attachments/assets/c0485616-f98d-4c9e-b4f4-6d6c9aeb0d18">
-<img width="920" alt="Screen Shot 2024-08-02 at 22 54 25" src="https://github.com/user-attachments/assets/79b9ad8f-5818-4d20-a976-e779be8dfbe6">
-
-
-
 ### Summary of Insights
 
 ### Wildfire Occurrences:
@@ -53,3 +48,8 @@
 - MODIS Australia Wildfires Dataset (2017-2020): This dataset provides detailed satellite data and fire detec7on data crucial for monitoring wildfires in Australia. hcps://www.kaggle.com/datasets/brsdincer/australia-and-inves7ga7ve-special-wildfires-data
 - Australia Weather Data: This dataset offers comprehensive meteorological informa7on, including temperature, rainfall, wind speed, humidity, and cloud cover, across various loca7ons in Australia. hcps://www.kaggle.com/datasets/gaurav896/weather-in-australia
 - Victoria State Shape File: This shapefile provides geographical informa7on for the state of Victoria. hcps://gisdata.mapog.com/australia/States%20and%20Territories%20level%201/Victoria
+
+<img width="920" alt="Screen Shot 2024-08-02 at 22 54 25" src="https://github.com/user-attachments/assets/dbe49a39-ef66-4d77-881a-7c1eed0cbc45">
+<img width="994" alt="Screen Shot 2024-08-02 at 22 54 14" src="https://github.com/user-attachments/assets/38004610-6453-4c2e-b877-0df5fcf069e9">
+
+
